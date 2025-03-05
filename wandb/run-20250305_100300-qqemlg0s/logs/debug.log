@@ -1,0 +1,26 @@
+2025-03-05 10:03:00,299 INFO    Thread-78 (_run_job):12736 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-05 10:03:00,299 INFO    Thread-78 (_run_job):12736 [wandb_setup.py:_flush():67] Configure stats pid to 12736
+2025-03-05 10:03:00,299 INFO    Thread-78 (_run_job):12736 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-05 10:03:00,299 INFO    Thread-78 (_run_job):12736 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-05 10:03:00,299 INFO    Thread-78 (_run_job):12736 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 10:03:00,299 INFO    Thread-78 (_run_job):12736 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_100300-qqemlg0s\logs\debug.log
+2025-03-05 10:03:00,300 INFO    Thread-78 (_run_job):12736 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_100300-qqemlg0s\logs\debug-internal.log
+2025-03-05 10:03:00,300 INFO    Thread-78 (_run_job):12736 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002DC9D5D2150>
+2025-03-05 10:03:00,300 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():761] calling init triggers
+2025-03-05 10:03:00,300 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 10, 'hidden_layers': 2, 'hidden_size': 64, 'learning_rate': 0.001, 'optimizer': 'momentum', 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-05 10:03:00,300 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():784] starting backend
+2025-03-05 10:03:00,300 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():788] sending inform_init request
+2025-03-05 10:03:00,302 INFO    Thread-78 (_run_job):12736 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-05 10:03:00,303 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():803] backend started and connected
+2025-03-05 10:03:00,304 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 10, 'hidden_layers': 2, 'hidden_size': 64, 'learning_rate': 0.001, 'optimizer': 'momentum', 'weight_init': 'xavier'}
+2025-03-05 10:03:00,306 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-05 10:03:00,319 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 17373: character maps to <undefined>
+2025-03-05 10:03:00,319 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():896] updated telemetry
+2025-03-05 10:03:00,368 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-05 10:03:01,421 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():995] starting run threads in backend
+2025-03-05 10:03:01,712 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-05 10:03:01,712 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-05 10:03:01,713 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-05 10:03:01,713 INFO    Thread-78 (_run_job):12736 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-05 10:03:01,713 INFO    Thread-78 (_run_job):12736 [wandb_init.py:init():1037] run started, returning control to user process

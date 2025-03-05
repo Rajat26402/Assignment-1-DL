@@ -1,0 +1,16 @@
+{"time":"2025-03-05T09:16:01.281779+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_091601-5qkk0hxt\\logs\\debug-core.log"}
+{"time":"2025-03-05T09:16:02.0005034+05:30","level":"INFO","msg":"created new stream","id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:02.0010989+05:30","level":"INFO","msg":"stream: started","id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:02.0010989+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:02.0010989+05:30","level":"INFO","msg":"sender: started","stream_id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:02.0010989+05:30","level":"INFO","msg":"handler: started","stream_id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:02.4438235+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T09:16:02.7117356+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T09:16:02.995645+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T09:16:03.7272055+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.6817751,"progress":"5.4KB/5.4KB"},{"desc":"uploading data","runtime_seconds":0.4397704},{"desc":"updating run config","runtime_seconds":0.2475681}],"total_operations":3}}
+{"time":"2025-03-05T09:16:05.1452427+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T09:16:06.4949173+05:30","level":"INFO","msg":"stream: closing","id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:06.4949173+05:30","level":"INFO","msg":"handler: closed","stream_id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:06.4949173+05:30","level":"INFO","msg":"sender: closed","stream_id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:06.4949173+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5qkk0hxt"}
+{"time":"2025-03-05T09:16:06.4949173+05:30","level":"INFO","msg":"stream: closed","id":"5qkk0hxt"}

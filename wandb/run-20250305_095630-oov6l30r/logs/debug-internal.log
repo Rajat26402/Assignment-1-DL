@@ -1,0 +1,11 @@
+{"time":"2025-03-05T09:56:30.5843178+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_095630-oov6l30r\\logs\\debug-core.log"}
+{"time":"2025-03-05T09:56:31.3070028+05:30","level":"INFO","msg":"created new stream","id":"oov6l30r"}
+{"time":"2025-03-05T09:56:31.3075283+05:30","level":"INFO","msg":"handler: started","stream_id":"oov6l30r"}
+{"time":"2025-03-05T09:56:31.3075283+05:30","level":"INFO","msg":"stream: started","id":"oov6l30r"}
+{"time":"2025-03-05T09:56:31.3075283+05:30","level":"INFO","msg":"sender: started","stream_id":"oov6l30r"}
+{"time":"2025-03-05T09:56:31.3075283+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"oov6l30r"}
+{"time":"2025-03-05T09:56:31.739098+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T09:56:32.067634+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T09:56:32.0686931+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T09:56:33.0735698+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.0939748},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0939748,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-05T09:56:33.6087153+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

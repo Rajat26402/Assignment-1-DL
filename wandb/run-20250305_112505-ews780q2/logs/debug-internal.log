@@ -1,0 +1,16 @@
+{"time":"2025-03-05T11:25:05.2536111+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_112505-ews780q2\\logs\\debug-core.log"}
+{"time":"2025-03-05T11:25:05.974429+05:30","level":"INFO","msg":"created new stream","id":"ews780q2"}
+{"time":"2025-03-05T11:25:05.974429+05:30","level":"INFO","msg":"stream: started","id":"ews780q2"}
+{"time":"2025-03-05T11:25:05.974429+05:30","level":"INFO","msg":"sender: started","stream_id":"ews780q2"}
+{"time":"2025-03-05T11:25:05.974429+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ews780q2"}
+{"time":"2025-03-05T11:25:05.974429+05:30","level":"INFO","msg":"handler: started","stream_id":"ews780q2"}
+{"time":"2025-03-05T11:25:06.3401167+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T11:25:09.3308604+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T11:25:09.3313655+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T11:25:10.3541606+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.711973,"progress":"221B/221B"},{"desc":"uploading config.yaml","runtime_seconds":0.4080734,"progress":"804B/804B"}],"total_operations":2}}
+{"time":"2025-03-05T11:25:10.964226+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T11:25:12.3108888+05:30","level":"INFO","msg":"stream: closing","id":"ews780q2"}
+{"time":"2025-03-05T11:25:12.3108888+05:30","level":"INFO","msg":"handler: closed","stream_id":"ews780q2"}
+{"time":"2025-03-05T11:25:12.3108888+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ews780q2"}
+{"time":"2025-03-05T11:25:12.3108888+05:30","level":"INFO","msg":"sender: closed","stream_id":"ews780q2"}
+{"time":"2025-03-05T11:25:12.3108888+05:30","level":"INFO","msg":"stream: closed","id":"ews780q2"}

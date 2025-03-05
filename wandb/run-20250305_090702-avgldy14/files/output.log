@@ -1,0 +1,3 @@
+Create sweep with ID: fd6fi7hb
+Sweep URL: https://wandb.ai/da24m014-iit-madras/Assignment%20-%201/sweeps/fd6fi7hb
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

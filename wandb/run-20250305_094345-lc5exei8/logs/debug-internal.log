@@ -1,0 +1,16 @@
+{"time":"2025-03-05T09:43:45.5992788+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_094345-lc5exei8\\logs\\debug-core.log"}
+{"time":"2025-03-05T09:43:46.9215336+05:30","level":"INFO","msg":"created new stream","id":"lc5exei8"}
+{"time":"2025-03-05T09:43:46.9221461+05:30","level":"INFO","msg":"stream: started","id":"lc5exei8"}
+{"time":"2025-03-05T09:43:46.9221461+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lc5exei8"}
+{"time":"2025-03-05T09:43:46.9221461+05:30","level":"INFO","msg":"handler: started","stream_id":"lc5exei8"}
+{"time":"2025-03-05T09:43:46.9221461+05:30","level":"INFO","msg":"sender: started","stream_id":"lc5exei8"}
+{"time":"2025-03-05T09:43:47.3462148+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T09:43:48.6809333+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T09:43:48.6814894+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T09:43:49.697337+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\Sample Images_0_cd8689e0f2a035303171.png","runtime_seconds":0.4246659,"progress":"609B/609B"},{"desc":"uploading media\\images\\Sample Images_0_65989982ca9140b3494a.png","runtime_seconds":0.4246659,"progress":"523B/523B"},{"desc":"uploading media\\images\\Sample Images_0_c994f021ba36204ca3c1.png","runtime_seconds":0.4246659,"progress":"590B/590B"},{"desc":"uploading media\\images\\Sample Images_0_352ec8bcbb7f793c3857.png","runtime_seconds":0.4246659,"progress":"503B/503B"},{"desc":"uploading output.log","runtime_seconds":0.4246659},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4246659,"progress":"868B/868B"},{"desc":"uploading media\\images\\Sample Images_0_4d144877c9093c197264.png","runtime_seconds":0.4241588,"progress":"374B/374B"},{"desc":"uploading media\\images\\Sample Images_0_7f9147937f711e4ba16e.png","runtime_seconds":0.4241588,"progress":"560B/560B"},{"desc":"uploading media\\images\\Sample Images_0_ba8afe5093296b9da95d.png","runtime_seconds":0.4241588,"progress":"424B/424B"},{"desc":"uploading media\\images\\Sample Images_0_adf48a208b1e9f1a3b47.png","runtime_seconds":0.4241588,"progress":"574B/574B"}],"total_operations":13}}
+{"time":"2025-03-05T09:43:50.522469+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T09:43:51.9211099+05:30","level":"INFO","msg":"stream: closing","id":"lc5exei8"}
+{"time":"2025-03-05T09:43:51.9211099+05:30","level":"INFO","msg":"handler: closed","stream_id":"lc5exei8"}
+{"time":"2025-03-05T09:43:51.9211099+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lc5exei8"}
+{"time":"2025-03-05T09:43:51.9211099+05:30","level":"INFO","msg":"sender: closed","stream_id":"lc5exei8"}
+{"time":"2025-03-05T09:43:51.9216389+05:30","level":"INFO","msg":"stream: closed","id":"lc5exei8"}

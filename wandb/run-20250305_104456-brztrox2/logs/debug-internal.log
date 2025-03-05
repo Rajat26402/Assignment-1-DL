@@ -1,0 +1,16 @@
+{"time":"2025-03-05T10:44:56.5662406+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_104456-brztrox2\\logs\\debug-core.log"}
+{"time":"2025-03-05T10:44:57.8919738+05:30","level":"INFO","msg":"created new stream","id":"brztrox2"}
+{"time":"2025-03-05T10:44:57.8919738+05:30","level":"INFO","msg":"stream: started","id":"brztrox2"}
+{"time":"2025-03-05T10:44:57.8919738+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"brztrox2"}
+{"time":"2025-03-05T10:44:57.8919738+05:30","level":"INFO","msg":"handler: started","stream_id":"brztrox2"}
+{"time":"2025-03-05T10:44:57.8925369+05:30","level":"INFO","msg":"sender: started","stream_id":"brztrox2"}
+{"time":"2025-03-05T10:45:02.102808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T10:45:05.678734+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T10:45:05.6797062+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T10:45:06.6887236+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.64047},{"desc":"uploading wandb-summary.json","runtime_seconds":0.64047,"progress":"210B/210B"},{"desc":"uploading config.yaml","runtime_seconds":0.3766567,"progress":"807B/807B"}],"total_operations":3}}
+{"time":"2025-03-05T10:45:07.3825438+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T10:45:08.8522239+05:30","level":"INFO","msg":"stream: closing","id":"brztrox2"}
+{"time":"2025-03-05T10:45:08.8522239+05:30","level":"INFO","msg":"handler: closed","stream_id":"brztrox2"}
+{"time":"2025-03-05T10:45:08.8522239+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"brztrox2"}
+{"time":"2025-03-05T10:45:08.8522239+05:30","level":"INFO","msg":"sender: closed","stream_id":"brztrox2"}
+{"time":"2025-03-05T10:45:08.8527687+05:30","level":"INFO","msg":"stream: closed","id":"brztrox2"}

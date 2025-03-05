@@ -1,0 +1,16 @@
+{"time":"2025-03-05T09:36:37.128725+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_093637-wawjl45e\\logs\\debug-core.log"}
+{"time":"2025-03-05T09:36:37.8479456+05:30","level":"INFO","msg":"created new stream","id":"wawjl45e"}
+{"time":"2025-03-05T09:36:37.8479456+05:30","level":"INFO","msg":"stream: started","id":"wawjl45e"}
+{"time":"2025-03-05T09:36:37.8479456+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wawjl45e"}
+{"time":"2025-03-05T09:36:37.8479456+05:30","level":"INFO","msg":"handler: started","stream_id":"wawjl45e"}
+{"time":"2025-03-05T09:36:37.8479456+05:30","level":"INFO","msg":"sender: started","stream_id":"wawjl45e"}
+{"time":"2025-03-05T09:36:38.2701689+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T09:36:38.5254872+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T09:36:38.5259909+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T09:36:39.5358279+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.6788951,"progress":"5.4KB/5.4KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.3872113,"progress":"1.1KB/1.1KB"},{"desc":"updating run config","runtime_seconds":0.2471066}],"total_operations":3}}
+{"time":"2025-03-05T09:36:40.9862204+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T09:36:42.3493796+05:30","level":"INFO","msg":"stream: closing","id":"wawjl45e"}
+{"time":"2025-03-05T09:36:42.3493796+05:30","level":"INFO","msg":"handler: closed","stream_id":"wawjl45e"}
+{"time":"2025-03-05T09:36:42.3493796+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wawjl45e"}
+{"time":"2025-03-05T09:36:42.3493796+05:30","level":"INFO","msg":"sender: closed","stream_id":"wawjl45e"}
+{"time":"2025-03-05T09:36:42.3493796+05:30","level":"INFO","msg":"stream: closed","id":"wawjl45e"}
