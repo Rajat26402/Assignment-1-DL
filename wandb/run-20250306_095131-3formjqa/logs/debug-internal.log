@@ -1,0 +1,16 @@
+{"time":"2025-03-06T09:51:31.2523545+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_095131-3formjqa\\logs\\debug-core.log"}
+{"time":"2025-03-06T09:51:31.9697186+05:30","level":"INFO","msg":"created new stream","id":"3formjqa"}
+{"time":"2025-03-06T09:51:31.9697186+05:30","level":"INFO","msg":"stream: started","id":"3formjqa"}
+{"time":"2025-03-06T09:51:31.9697186+05:30","level":"INFO","msg":"handler: started","stream_id":"3formjqa"}
+{"time":"2025-03-06T09:51:31.9705107+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3formjqa"}
+{"time":"2025-03-06T09:51:31.9705107+05:30","level":"INFO","msg":"sender: started","stream_id":"3formjqa"}
+{"time":"2025-03-06T09:51:32.2986273+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T09:51:32.6536683+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T09:51:32.8397522+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T09:51:33.6566596+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.1851061},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1851061,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-06T09:51:34.1481676+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T09:51:35.4650403+05:30","level":"INFO","msg":"stream: closing","id":"3formjqa"}
+{"time":"2025-03-06T09:51:35.4650403+05:30","level":"INFO","msg":"handler: closed","stream_id":"3formjqa"}
+{"time":"2025-03-06T09:51:35.4650403+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3formjqa"}
+{"time":"2025-03-06T09:51:35.4650403+05:30","level":"INFO","msg":"sender: closed","stream_id":"3formjqa"}
+{"time":"2025-03-06T09:51:35.4650403+05:30","level":"INFO","msg":"stream: closed","id":"3formjqa"}

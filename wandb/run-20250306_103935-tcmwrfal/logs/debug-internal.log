@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:39:35.4627146+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_103935-tcmwrfal\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:39:36.1817097+05:30","level":"INFO","msg":"created new stream","id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:36.1817097+05:30","level":"INFO","msg":"stream: started","id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:36.1817097+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:36.1817097+05:30","level":"INFO","msg":"sender: started","stream_id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:36.1817097+05:30","level":"INFO","msg":"handler: started","stream_id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:36.5475808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:39:36.8979306+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:39:37.0833211+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:39:37.902702+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":1.0325077,"progress":"631B/631B"},{"desc":"uploading requirements.txt","runtime_seconds":0.8002901,"progress":"5.4KB/5.4KB"},{"desc":"uploading output.log","runtime_seconds":0.1496643},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1496643,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-06T10:39:39.0992917+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:39:40.4157524+05:30","level":"INFO","msg":"stream: closing","id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:40.4157524+05:30","level":"INFO","msg":"handler: closed","stream_id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:40.4157524+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:40.4157524+05:30","level":"INFO","msg":"sender: closed","stream_id":"tcmwrfal"}
+{"time":"2025-03-06T10:39:40.4157524+05:30","level":"INFO","msg":"stream: closed","id":"tcmwrfal"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:53:00.3060674+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_105300-4wajeyju\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:53:00.5222085+05:30","level":"INFO","msg":"created new stream","id":"4wajeyju"}
+{"time":"2025-03-06T10:53:00.5222085+05:30","level":"INFO","msg":"stream: started","id":"4wajeyju"}
+{"time":"2025-03-06T10:53:00.5222085+05:30","level":"INFO","msg":"handler: started","stream_id":"4wajeyju"}
+{"time":"2025-03-06T10:53:00.5222085+05:30","level":"INFO","msg":"sender: started","stream_id":"4wajeyju"}
+{"time":"2025-03-06T10:53:00.5222085+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4wajeyju"}
+{"time":"2025-03-06T10:53:00.8767794+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:53:01.2206043+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:53:01.2211774+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:53:02.2310711+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.7887644,"progress":"5.4KB/5.4KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.6338591,"progress":"1.1KB/1.1KB"},{"desc":"uploading output.log","runtime_seconds":0.1964483},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1964483,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-06T10:53:02.8752757+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:53:04.8683907+05:30","level":"INFO","msg":"stream: closing","id":"4wajeyju"}
+{"time":"2025-03-06T10:53:04.8683907+05:30","level":"INFO","msg":"handler: closed","stream_id":"4wajeyju"}
+{"time":"2025-03-06T10:53:04.8683907+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4wajeyju"}
+{"time":"2025-03-06T10:53:04.8683907+05:30","level":"INFO","msg":"sender: closed","stream_id":"4wajeyju"}
+{"time":"2025-03-06T10:53:04.8683907+05:30","level":"INFO","msg":"stream: closed","id":"4wajeyju"}

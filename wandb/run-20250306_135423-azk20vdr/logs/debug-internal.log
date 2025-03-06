@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:54:23.4469267+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_135423-azk20vdr\\logs\\debug-core.log"}
+{"time":"2025-03-06T13:54:24.1673+05:30","level":"INFO","msg":"created new stream","id":"azk20vdr"}
+{"time":"2025-03-06T13:54:24.1673+05:30","level":"INFO","msg":"stream: started","id":"azk20vdr"}
+{"time":"2025-03-06T13:54:24.1673+05:30","level":"INFO","msg":"sender: started","stream_id":"azk20vdr"}
+{"time":"2025-03-06T13:54:24.1673+05:30","level":"INFO","msg":"handler: started","stream_id":"azk20vdr"}
+{"time":"2025-03-06T13:54:24.1673+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"azk20vdr"}
+{"time":"2025-03-06T13:54:24.4939416+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:55:09.9863743+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:55:09.9874004+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:55:10.9953925+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.2312059},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2312059,"progress":"211B/211B"}],"total_operations":2}}
+{"time":"2025-03-06T13:55:11.4225606+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:55:12.8026912+05:30","level":"INFO","msg":"stream: closing","id":"azk20vdr"}
+{"time":"2025-03-06T13:55:12.8026912+05:30","level":"INFO","msg":"handler: closed","stream_id":"azk20vdr"}
+{"time":"2025-03-06T13:55:12.8026912+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"azk20vdr"}
+{"time":"2025-03-06T13:55:12.8026912+05:30","level":"INFO","msg":"sender: closed","stream_id":"azk20vdr"}
+{"time":"2025-03-06T13:55:12.8026912+05:30","level":"INFO","msg":"stream: closed","id":"azk20vdr"}

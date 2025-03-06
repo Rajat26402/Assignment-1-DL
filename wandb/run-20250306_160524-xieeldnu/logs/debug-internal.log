@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:05:24.2086557+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_160524-xieeldnu\\logs\\debug-core.log"}
+{"time":"2025-03-06T16:05:24.9250976+05:30","level":"INFO","msg":"created new stream","id":"xieeldnu"}
+{"time":"2025-03-06T16:05:24.9250976+05:30","level":"INFO","msg":"stream: started","id":"xieeldnu"}
+{"time":"2025-03-06T16:05:24.9250976+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xieeldnu"}
+{"time":"2025-03-06T16:05:24.925651+05:30","level":"INFO","msg":"sender: started","stream_id":"xieeldnu"}
+{"time":"2025-03-06T16:05:24.925651+05:30","level":"INFO","msg":"handler: started","stream_id":"xieeldnu"}
+{"time":"2025-03-06T16:05:25.2429697+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:05:54.7571254+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:05:54.7576565+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:05:55.7045409+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:05:55.7732711+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 5-9, summary","runtime_seconds":0.0687302}],"total_operations":1}}
+{"time":"2025-03-06T16:05:57.0634399+05:30","level":"INFO","msg":"stream: closing","id":"xieeldnu"}
+{"time":"2025-03-06T16:05:57.0634399+05:30","level":"INFO","msg":"handler: closed","stream_id":"xieeldnu"}
+{"time":"2025-03-06T16:05:57.0634399+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xieeldnu"}
+{"time":"2025-03-06T16:05:57.0634399+05:30","level":"INFO","msg":"sender: closed","stream_id":"xieeldnu"}
+{"time":"2025-03-06T16:05:57.0634399+05:30","level":"INFO","msg":"stream: closed","id":"xieeldnu"}

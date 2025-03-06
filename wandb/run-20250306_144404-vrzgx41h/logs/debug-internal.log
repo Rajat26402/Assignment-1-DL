@@ -1,0 +1,16 @@
+{"time":"2025-03-06T14:44:04.5507486+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_144404-vrzgx41h\\logs\\debug-core.log"}
+{"time":"2025-03-06T14:44:05.2770924+05:30","level":"INFO","msg":"created new stream","id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:05.2770924+05:30","level":"INFO","msg":"stream: started","id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:05.2776306+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:05.2776306+05:30","level":"INFO","msg":"handler: started","stream_id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:05.2776306+05:30","level":"INFO","msg":"sender: started","stream_id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:05.7155545+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T14:44:06.2370489+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T14:44:06.3251982+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T14:44:07.2513589+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.7965035,"progress":"5.4KB/5.4KB"},{"desc":"uploading output.log","runtime_seconds":0.1582849},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1582849,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-03-06T14:44:08.442994+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T14:44:09.7851276+05:30","level":"INFO","msg":"stream: closing","id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:09.7851276+05:30","level":"INFO","msg":"handler: closed","stream_id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:09.7851276+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:09.7851276+05:30","level":"INFO","msg":"sender: closed","stream_id":"vrzgx41h"}
+{"time":"2025-03-06T14:44:09.7851276+05:30","level":"INFO","msg":"stream: closed","id":"vrzgx41h"}

@@ -1,0 +1,6 @@
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_12560\3876934738.py:12: RuntimeWarning: overflow encountered in subtract
+  expZ = np.exp(Z - np.max(Z, axis=1, keepdims=True))
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_12560\1513628295.py:34: RuntimeWarning: overflow encountered in matmul
+  Z = self.A[-1] @ self.weights[-1] + self.biases[-1]
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_12560\3876934738.py:12: RuntimeWarning: invalid value encountered in subtract
+  expZ = np.exp(Z - np.max(Z, axis=1, keepdims=True))

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:38:14.5450203+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_103814-coobfxku\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:38:15.2609893+05:30","level":"INFO","msg":"created new stream","id":"coobfxku"}
+{"time":"2025-03-06T10:38:15.2609893+05:30","level":"INFO","msg":"stream: started","id":"coobfxku"}
+{"time":"2025-03-06T10:38:15.2609893+05:30","level":"INFO","msg":"handler: started","stream_id":"coobfxku"}
+{"time":"2025-03-06T10:38:15.2609893+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"coobfxku"}
+{"time":"2025-03-06T10:38:15.2609893+05:30","level":"INFO","msg":"sender: started","stream_id":"coobfxku"}
+{"time":"2025-03-06T10:38:15.6221456+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:38:26.4602268+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:38:26.6989104+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:38:27.4680875+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4446108},{"desc":"uploading config.yaml","runtime_seconds":0.1977977,"progress":"843B/843B"}],"total_operations":2}}
+{"time":"2025-03-06T10:38:28.4659706+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:38:29.8608833+05:30","level":"INFO","msg":"stream: closing","id":"coobfxku"}
+{"time":"2025-03-06T10:38:29.8608833+05:30","level":"INFO","msg":"handler: closed","stream_id":"coobfxku"}
+{"time":"2025-03-06T10:38:29.8608833+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"coobfxku"}
+{"time":"2025-03-06T10:38:29.8608833+05:30","level":"INFO","msg":"sender: closed","stream_id":"coobfxku"}
+{"time":"2025-03-06T10:38:29.8608833+05:30","level":"INFO","msg":"stream: closed","id":"coobfxku"}

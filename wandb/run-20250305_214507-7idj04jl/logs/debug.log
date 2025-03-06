@@ -1,0 +1,128 @@
+2025-03-05 21:45:07,662 INFO    Thread-47 (_run_job):18620 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-05 21:45:07,663 INFO    Thread-47 (_run_job):18620 [wandb_setup.py:_flush():67] Configure stats pid to 18620
+2025-03-05 21:45:07,663 INFO    Thread-47 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-05 21:45:07,663 INFO    Thread-47 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-05 21:45:07,663 INFO    Thread-47 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 21:45:07,664 INFO    Thread-47 (_run_job):18620 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_214507-7idj04jl\logs\debug.log
+2025-03-05 21:45:07,664 INFO    Thread-47 (_run_job):18620 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_214507-7idj04jl\logs\debug-internal.log
+2025-03-05 21:45:07,664 INFO    Thread-47 (_run_job):18620 [wandb_init.py:init():761] calling init triggers
+2025-03-05 21:45:07,664 INFO    Thread-47 (_run_job):18620 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 16, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.0001, 'optimizer': 'momentum', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-05 21:45:07,664 INFO    Thread-47 (_run_job):18620 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-05 21:45:07,665 ERROR   Thread-47 (_run_job):18620 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-05 21:45:07,671 INFO    Thread-47 (_run_job):18620 [wandb_run.py:_finish():2112] finishing run da24m014-iit-madras/DLA1/qs8nje60
+2025-03-05 21:45:17,776 INFO    Thread-50 (_run_job):18620 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-05 21:45:17,776 INFO    Thread-50 (_run_job):18620 [wandb_setup.py:_flush():67] Configure stats pid to 18620
+2025-03-05 21:45:17,776 INFO    Thread-50 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-05 21:45:17,776 INFO    Thread-50 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-05 21:45:17,777 INFO    Thread-50 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 21:45:17,777 INFO    Thread-50 (_run_job):18620 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_214517-jh01iap6\logs\debug.log
+2025-03-05 21:45:17,777 INFO    Thread-50 (_run_job):18620 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_214517-jh01iap6\logs\debug-internal.log
+2025-03-05 21:45:17,778 INFO    Thread-50 (_run_job):18620 [wandb_init.py:init():761] calling init triggers
+2025-03-05 21:45:17,778 INFO    Thread-50 (_run_job):18620 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 32, 'epochs': 5, 'hidden_layers': 3, 'hidden_size': 64, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-05 21:45:17,778 INFO    Thread-50 (_run_job):18620 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-05 21:45:17,778 ERROR   Thread-50 (_run_job):18620 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-05 21:45:17,785 INFO    Thread-50 (_run_job):18620 [wandb_run.py:_finish():2112] finishing run da24m014-iit-madras/DLA1/qs8nje60
+2025-03-05 21:45:18,693 INFO    Thread-53 (_run_job):18620 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-05 21:45:18,694 INFO    Thread-53 (_run_job):18620 [wandb_setup.py:_flush():67] Configure stats pid to 18620
+2025-03-05 21:45:18,694 INFO    Thread-53 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-05 21:45:18,694 INFO    Thread-53 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-05 21:45:18,695 INFO    Thread-53 (_run_job):18620 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 21:45:18,695 INFO    Thread-53 (_run_job):18620 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_214518-vqbxpwgm\logs\debug.log
+2025-03-05 21:45:18,696 INFO    Thread-53 (_run_job):18620 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_214518-vqbxpwgm\logs\debug-internal.log
+2025-03-05 21:45:18,696 INFO    Thread-53 (_run_job):18620 [wandb_init.py:init():761] calling init triggers
+2025-03-05 21:45:18,696 INFO    Thread-53 (_run_job):18620 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 5, 'hidden_layers': 4, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'rmsprop', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-05 21:45:18,697 INFO    Thread-53 (_run_job):18620 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-05 21:45:18,697 ERROR   Thread-53 (_run_job):18620 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-05 21:45:18,706 INFO    Thread-53 (_run_job):18620 [wandb_run.py:_finish():2112] finishing run da24m014-iit-madras/DLA1/qs8nje60
+2025-03-05 21:45:23,742 INFO    MainThread:18620 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-05 21:45:23,742 INFO    MainThread:18620 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-05 21:45:29,756 INFO    MainThread:18620 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-05 21:45:29,804 INFO    MainThread:18620 [pyagent.py:run():322] Starting sweep agent: entity=da24m014-iit-madras, project=DLA1, count=None
+2025-03-05 21:45:33,590 ERROR   MainThread:18620 [internal_api.py:execute():402] 404 response executing GraphQL.
+2025-03-05 21:45:33,590 ERROR   MainThread:18620 [internal_api.py:execute():403] {"errors":[{"message":"could not find sweep da24m014-iit-madras/DLA1/yqx7dhzz during createAgent","path":["createAgent"]}],"data":{"createAgent":null}}
+2025-03-05 21:45:34,268 INFO    MainThread:18620 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-05 21:45:34,268 INFO    MainThread:18620 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-05 21:45:39,807 INFO    MainThread:18620 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-05 21:45:39,875 INFO    MainThread:18620 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-05 21:45:39,877 INFO    MainThread:18620 [wandb_init.py:_pause_backend():564] pausing backend

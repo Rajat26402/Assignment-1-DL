@@ -1,0 +1,173 @@
+2025-03-05 21:22:49,698 INFO    Thread-28 (_run_job):30216 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-05 21:22:49,698 INFO    Thread-28 (_run_job):30216 [wandb_setup.py:_flush():67] Configure stats pid to 30216
+2025-03-05 21:22:49,698 INFO    Thread-28 (_run_job):30216 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-05 21:22:49,698 INFO    Thread-28 (_run_job):30216 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-05 21:22:49,698 INFO    Thread-28 (_run_job):30216 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 21:22:49,698 INFO    Thread-28 (_run_job):30216 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_212249-dtq5a7d0\logs\debug.log
+2025-03-05 21:22:49,699 INFO    Thread-28 (_run_job):30216 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_212249-dtq5a7d0\logs\debug-internal.log
+2025-03-05 21:22:49,699 INFO    Thread-28 (_run_job):30216 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000200D4941B90>
+2025-03-05 21:22:49,699 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():761] calling init triggers
+2025-03-05 21:22:49,699 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'epochs': 5, 'hidden_layers': 3, 'hidden_size': 64, 'learning_rate': 0.0001, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-05 21:22:49,699 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():784] starting backend
+2025-03-05 21:22:49,699 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():788] sending inform_init request
+2025-03-05 21:22:49,700 INFO    Thread-28 (_run_job):30216 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-05 21:22:49,701 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():803] backend started and connected
+2025-03-05 21:22:49,702 INFO    Thread-28 (_run_job):30216 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 64, 'epochs': 5, 'hidden_layers': 3, 'hidden_size': 64, 'learning_rate': 0.0001, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'random'}
+2025-03-05 21:22:49,703 INFO    Thread-28 (_run_job):30216 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-05 21:22:49,715 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():896] updated telemetry
+2025-03-05 21:22:49,759 INFO    Thread-28 (_run_job):30216 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-05 21:23:55,005 INFO    Thread-32 (wrapped_target):30216 [retry.py:__call__():175] Retry attempt failed:
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x00000200D94BD650>, 'Connection to api.wandb.ai timed out. (connect timeout=20)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000200D94BD650>, 'Connection to api.wandb.ai timed out. (connect timeout=20)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\retry.py", line 134, in __call__
+    result = self._call_fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\internal\internal_api.py", line 398, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\gql_request.py", line 58, in execute
+    request = self.session.post(self.url, **post_args)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\requests\adapters.py", line 688, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000200D94BD650>, 'Connection to api.wandb.ai timed out. (connect timeout=20)'))
+2025-03-05 21:24:19,761 ERROR   Thread-28 (_run_job):30216 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Program Files\Python311\Lib\asyncio\tasks.py", line 490, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "c:\Program Files\Python311\Lib\asyncio\locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\handles.py", line 141, in wait_async
+    await asyncio.wait_for(evt.wait(), timeout=timeout)
+  File "c:\Program Files\Python311\Lib\asyncio\tasks.py", line 492, in wait_for
+    raise exceptions.TimeoutError() from exc
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 946, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 23, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 86, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "c:\Program Files\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\asyncio_compat.py", line 74, in run
+    return asyncio.run(self._run_or_cancel(fn))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\asyncio_compat.py", line 98, in _run_or_cancel
+    return fn_task.result()
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 81, in progress_loop_with_timeout
+    return await _wait_handles_async(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 129, in _wait_handles_async
+    async with asyncio_compat.open_task_group() as task_group:
+  File "c:\Program Files\Python311\Lib\contextlib.py", line 211, in __aexit__
+    await anext(self.gen)
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\asyncio_compat.py", line 190, in open_task_group
+    await task_group._wait_all()
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\lib\asyncio_compat.py", line 159, in _wait_all
+    raise exc
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 127, in wait_single
+    results[index] = await handle.wait_async(timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\mailbox\handles.py", line 150, in wait_async
+    raise TimeoutError(
+TimeoutError: Timed out waiting for response on qjmzm9hkocig
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 959, in init
+    raise CommError(
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. Please try increasing the timeout with the `init_timeout` setting: `wandb.init(settings=wandb.Settings(init_timeout=120))`.

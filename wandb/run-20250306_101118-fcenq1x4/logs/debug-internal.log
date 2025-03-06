@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:11:18.6085212+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_101118-fcenq1x4\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:11:19.9339964+05:30","level":"INFO","msg":"created new stream","id":"fcenq1x4"}
+{"time":"2025-03-06T10:11:19.9339964+05:30","level":"INFO","msg":"stream: started","id":"fcenq1x4"}
+{"time":"2025-03-06T10:11:19.9350032+05:30","level":"INFO","msg":"handler: started","stream_id":"fcenq1x4"}
+{"time":"2025-03-06T10:11:19.9350032+05:30","level":"INFO","msg":"sender: started","stream_id":"fcenq1x4"}
+{"time":"2025-03-06T10:11:19.9350032+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fcenq1x4"}
+{"time":"2025-03-06T10:11:20.3137792+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:11:57.9521171+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:11:57.9529209+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:11:58.9619029+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4135645},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4135645,"progress":"208B/208B"},{"desc":"uploading config.yaml","runtime_seconds":0.1179695,"progress":"843B/843B"}],"total_operations":3}}
+{"time":"2025-03-06T10:11:59.184244+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:12:00.5223225+05:30","level":"INFO","msg":"stream: closing","id":"fcenq1x4"}
+{"time":"2025-03-06T10:12:00.5223225+05:30","level":"INFO","msg":"handler: closed","stream_id":"fcenq1x4"}
+{"time":"2025-03-06T10:12:00.5223225+05:30","level":"INFO","msg":"sender: closed","stream_id":"fcenq1x4"}
+{"time":"2025-03-06T10:12:00.5223225+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fcenq1x4"}
+{"time":"2025-03-06T10:12:00.5223225+05:30","level":"INFO","msg":"stream: closed","id":"fcenq1x4"}

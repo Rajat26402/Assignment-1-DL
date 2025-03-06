@@ -1,0 +1,17 @@
+{"time":"2025-03-05T21:21:50.3401444+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_212150-3i33ukvv\\logs\\debug-core.log"}
+{"time":"2025-03-05T21:21:51.0575349+05:30","level":"INFO","msg":"created new stream","id":"3i33ukvv"}
+{"time":"2025-03-05T21:21:51.0575349+05:30","level":"INFO","msg":"stream: started","id":"3i33ukvv"}
+{"time":"2025-03-05T21:21:51.0575349+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3i33ukvv"}
+{"time":"2025-03-05T21:21:51.0575349+05:30","level":"INFO","msg":"handler: started","stream_id":"3i33ukvv"}
+{"time":"2025-03-05T21:21:51.0575349+05:30","level":"INFO","msg":"sender: started","stream_id":"3i33ukvv"}
+{"time":"2025-03-05T21:21:52.0094628+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:21:52.4047669+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:21:52.4052871+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:21:53.4177388+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.9735339,"progress":"1.1KB/1.1KB"},{"desc":"updating run config","runtime_seconds":0.5916122},{"desc":"uploading requirements.txt","runtime_seconds":0.3074483,"progress":"5.4KB/5.4KB"}],"total_operations":3}}
+{"time":"2025-03-05T21:21:55.5237164+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:22:09.9290703+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m014-iit-madras/uncategorized/3i33ukvv/file_stream\": unexpected EOF"}
+{"time":"2025-03-05T21:22:25.8316422+05:30","level":"INFO","msg":"stream: closing","id":"3i33ukvv"}
+{"time":"2025-03-05T21:22:25.8316422+05:30","level":"INFO","msg":"handler: closed","stream_id":"3i33ukvv"}
+{"time":"2025-03-05T21:22:25.8316422+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3i33ukvv"}
+{"time":"2025-03-05T21:22:25.8316422+05:30","level":"INFO","msg":"sender: closed","stream_id":"3i33ukvv"}
+{"time":"2025-03-05T21:22:25.8322755+05:30","level":"INFO","msg":"stream: closed","id":"3i33ukvv"}

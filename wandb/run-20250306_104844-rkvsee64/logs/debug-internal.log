@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:48:44.4742165+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_104844-rkvsee64\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:48:45.7953662+05:30","level":"INFO","msg":"created new stream","id":"rkvsee64"}
+{"time":"2025-03-06T10:48:45.7953662+05:30","level":"INFO","msg":"stream: started","id":"rkvsee64"}
+{"time":"2025-03-06T10:48:45.7953662+05:30","level":"INFO","msg":"handler: started","stream_id":"rkvsee64"}
+{"time":"2025-03-06T10:48:45.7953662+05:30","level":"INFO","msg":"sender: started","stream_id":"rkvsee64"}
+{"time":"2025-03-06T10:48:45.7953662+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rkvsee64"}
+{"time":"2025-03-06T10:48:46.1401323+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:49:33.9412953+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:49:33.9418166+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:49:34.9504804+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4094145,"progress":"208B/208B"},{"desc":"uploading output.log","runtime_seconds":0.4094145},{"desc":"uploading config.yaml","runtime_seconds":0.1274748,"progress":"841B/841B"}],"total_operations":3}}
+{"time":"2025-03-06T10:49:35.8745024+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:49:37.6301396+05:30","level":"INFO","msg":"stream: closing","id":"rkvsee64"}
+{"time":"2025-03-06T10:49:37.6301396+05:30","level":"INFO","msg":"handler: closed","stream_id":"rkvsee64"}
+{"time":"2025-03-06T10:49:37.6301396+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rkvsee64"}
+{"time":"2025-03-06T10:49:37.6301396+05:30","level":"INFO","msg":"sender: closed","stream_id":"rkvsee64"}
+{"time":"2025-03-06T10:49:37.6301396+05:30","level":"INFO","msg":"stream: closed","id":"rkvsee64"}

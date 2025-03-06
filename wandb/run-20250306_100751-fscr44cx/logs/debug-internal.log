@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:07:51.7146159+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_100751-fscr44cx\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:07:53.0343726+05:30","level":"INFO","msg":"created new stream","id":"fscr44cx"}
+{"time":"2025-03-06T10:07:53.0343726+05:30","level":"INFO","msg":"stream: started","id":"fscr44cx"}
+{"time":"2025-03-06T10:07:53.0343726+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fscr44cx"}
+{"time":"2025-03-06T10:07:53.0343726+05:30","level":"INFO","msg":"handler: started","stream_id":"fscr44cx"}
+{"time":"2025-03-06T10:07:53.0343726+05:30","level":"INFO","msg":"sender: started","stream_id":"fscr44cx"}
+{"time":"2025-03-06T10:07:53.3653545+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:07:53.7644008+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:07:53.9312317+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:07:54.7682747+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.190197},{"desc":"uploading wandb-summary.json","runtime_seconds":0.190197,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-06T10:07:55.3106184+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:07:56.6441567+05:30","level":"INFO","msg":"stream: closing","id":"fscr44cx"}
+{"time":"2025-03-06T10:07:56.6441567+05:30","level":"INFO","msg":"handler: closed","stream_id":"fscr44cx"}
+{"time":"2025-03-06T10:07:56.6441567+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fscr44cx"}
+{"time":"2025-03-06T10:07:56.6441567+05:30","level":"INFO","msg":"sender: closed","stream_id":"fscr44cx"}
+{"time":"2025-03-06T10:07:56.6441567+05:30","level":"INFO","msg":"stream: closed","id":"fscr44cx"}

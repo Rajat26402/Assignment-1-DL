@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:26:08.9089026+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_102608-ow4manys\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:26:09.6278415+05:30","level":"INFO","msg":"created new stream","id":"ow4manys"}
+{"time":"2025-03-06T10:26:09.6278415+05:30","level":"INFO","msg":"stream: started","id":"ow4manys"}
+{"time":"2025-03-06T10:26:09.6278415+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ow4manys"}
+{"time":"2025-03-06T10:26:09.6278415+05:30","level":"INFO","msg":"handler: started","stream_id":"ow4manys"}
+{"time":"2025-03-06T10:26:09.6284459+05:30","level":"INFO","msg":"sender: started","stream_id":"ow4manys"}
+{"time":"2025-03-06T10:26:10.0217603+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:26:20.4782983+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:26:20.530523+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:26:21.4773577+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:26:21.4854557+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-9, summary","runtime_seconds":0.008098}],"total_operations":1}}
+{"time":"2025-03-06T10:26:22.8131862+05:30","level":"INFO","msg":"stream: closing","id":"ow4manys"}
+{"time":"2025-03-06T10:26:22.8131862+05:30","level":"INFO","msg":"handler: closed","stream_id":"ow4manys"}
+{"time":"2025-03-06T10:26:22.8131862+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ow4manys"}
+{"time":"2025-03-06T10:26:22.8131862+05:30","level":"INFO","msg":"sender: closed","stream_id":"ow4manys"}
+{"time":"2025-03-06T10:26:22.8131862+05:30","level":"INFO","msg":"stream: closed","id":"ow4manys"}

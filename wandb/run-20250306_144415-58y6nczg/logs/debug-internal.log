@@ -1,0 +1,16 @@
+{"time":"2025-03-06T14:44:15.1833595+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_144415-58y6nczg\\logs\\debug-core.log"}
+{"time":"2025-03-06T14:44:15.9031804+05:30","level":"INFO","msg":"created new stream","id":"58y6nczg"}
+{"time":"2025-03-06T14:44:15.9037126+05:30","level":"INFO","msg":"stream: started","id":"58y6nczg"}
+{"time":"2025-03-06T14:44:15.9037126+05:30","level":"INFO","msg":"handler: started","stream_id":"58y6nczg"}
+{"time":"2025-03-06T14:44:15.9037126+05:30","level":"INFO","msg":"sender: started","stream_id":"58y6nczg"}
+{"time":"2025-03-06T14:44:15.9037126+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"58y6nczg"}
+{"time":"2025-03-06T14:44:16.2660514+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T14:44:16.6279486+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T14:44:16.6285258+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T14:44:17.6454211+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.8084186,"progress":"5.4KB/5.4KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.655189,"progress":"1.1KB/1.1KB"},{"desc":"uploading output.log","runtime_seconds":0.1696631},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1696631,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-06T14:44:18.8538449+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T14:44:20.160686+05:30","level":"INFO","msg":"stream: closing","id":"58y6nczg"}
+{"time":"2025-03-06T14:44:20.160686+05:30","level":"INFO","msg":"handler: closed","stream_id":"58y6nczg"}
+{"time":"2025-03-06T14:44:20.160686+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"58y6nczg"}
+{"time":"2025-03-06T14:44:20.160686+05:30","level":"INFO","msg":"sender: closed","stream_id":"58y6nczg"}
+{"time":"2025-03-06T14:44:20.160686+05:30","level":"INFO","msg":"stream: closed","id":"58y6nczg"}

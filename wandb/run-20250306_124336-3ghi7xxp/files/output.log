@@ -1,0 +1,6 @@
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_14780\3876934738.py:12: RuntimeWarning: overflow encountered in subtract
+  expZ = np.exp(Z - np.max(Z, axis=1, keepdims=True))
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_14780\2266570892.py:12: RuntimeWarning: overflow encountered in add
+  biases[i] += momentum * biases[i] - learning_rate * grads_b[i]  # Fixed Bias Update
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_14780\3876934738.py:12: RuntimeWarning: invalid value encountered in subtract
+  expZ = np.exp(Z - np.max(Z, axis=1, keepdims=True))

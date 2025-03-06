@@ -1,0 +1,16 @@
+{"time":"2025-03-06T08:41:02.7411999+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_084102-pnflvbbh\\logs\\debug-core.log"}
+{"time":"2025-03-06T08:41:03.6018744+05:30","level":"INFO","msg":"created new stream","id":"pnflvbbh"}
+{"time":"2025-03-06T08:41:03.6024322+05:30","level":"INFO","msg":"stream: started","id":"pnflvbbh"}
+{"time":"2025-03-06T08:41:03.6027533+05:30","level":"INFO","msg":"sender: started","stream_id":"pnflvbbh"}
+{"time":"2025-03-06T08:41:03.6027533+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pnflvbbh"}
+{"time":"2025-03-06T08:41:03.6027533+05:30","level":"INFO","msg":"handler: started","stream_id":"pnflvbbh"}
+{"time":"2025-03-06T08:41:04.2620366+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T08:42:34.2560831+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T08:42:34.2570918+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T08:42:35.2741807+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 7-9, summary","runtime_seconds":0.2151914},{"desc":"uploading output.log","runtime_seconds":0.0841895},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0841895,"progress":"211B/211B"}],"total_operations":3}}
+{"time":"2025-03-06T08:42:35.8450668+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T08:42:37.2500518+05:30","level":"INFO","msg":"stream: closing","id":"pnflvbbh"}
+{"time":"2025-03-06T08:42:37.2500518+05:30","level":"INFO","msg":"handler: closed","stream_id":"pnflvbbh"}
+{"time":"2025-03-06T08:42:37.2500518+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pnflvbbh"}
+{"time":"2025-03-06T08:42:37.2505645+05:30","level":"INFO","msg":"sender: closed","stream_id":"pnflvbbh"}
+{"time":"2025-03-06T08:42:37.2505645+05:30","level":"INFO","msg":"stream: closed","id":"pnflvbbh"}

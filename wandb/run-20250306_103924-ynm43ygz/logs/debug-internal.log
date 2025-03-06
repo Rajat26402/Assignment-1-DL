@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:39:24.8259275+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_103924-ynm43ygz\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:39:25.5444637+05:30","level":"INFO","msg":"created new stream","id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:25.5450538+05:30","level":"INFO","msg":"stream: started","id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:25.5450538+05:30","level":"INFO","msg":"sender: started","stream_id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:25.5450538+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:25.5450538+05:30","level":"INFO","msg":"handler: started","stream_id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:26.1278583+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:39:26.4506917+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:39:26.451404+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:39:27.462074+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.755625,"progress":"5.4KB/5.4KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.5092498,"progress":"1.1KB/1.1KB"},{"desc":"uploading data","runtime_seconds":0.5092498},{"desc":"updating run config","runtime_seconds":0.3661371}],"total_operations":4}}
+{"time":"2025-03-06T10:39:28.9593357+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:39:30.3090121+05:30","level":"INFO","msg":"stream: closing","id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:30.309518+05:30","level":"INFO","msg":"handler: closed","stream_id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:30.309518+05:30","level":"INFO","msg":"sender: closed","stream_id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:30.309518+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ynm43ygz"}
+{"time":"2025-03-06T10:39:30.309518+05:30","level":"INFO","msg":"stream: closed","id":"ynm43ygz"}

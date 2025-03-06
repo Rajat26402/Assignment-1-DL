@@ -1,0 +1,23 @@
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_201058-mriduj8n\logs\debug.log
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250305_201058-mriduj8n\logs\debug-internal.log
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001C4531847D0>
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:init():761] calling init triggers
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 32, 'epochs': 10, 'hidden_layers': 2, 'hidden_size': 64, 'learning_rate': 0.01, 'optimizer': 'sgd', 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:init():784] starting backend
+2025-03-05 20:10:58,471 INFO    MainThread:22548 [wandb_init.py:init():788] sending inform_init request
+2025-03-05 20:10:58,473 INFO    MainThread:22548 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-05 20:10:58,474 INFO    MainThread:22548 [wandb_init.py:init():803] backend started and connected
+2025-03-05 20:10:58,475 INFO    MainThread:22548 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'relu', 'batch_size': 32, 'epochs': 10, 'hidden_layers': 2, 'hidden_size': 64, 'learning_rate': 0.01, 'optimizer': 'sgd', 'weight_init': 'xavier'}
+2025-03-05 20:10:58,476 INFO    MainThread:22548 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-05 20:10:58,492 INFO    MainThread:22548 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 21022: character maps to <undefined>
+2025-03-05 20:10:58,492 INFO    MainThread:22548 [wandb_init.py:init():896] updated telemetry
+2025-03-05 20:10:58,568 INFO    MainThread:22548 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-05 20:11:00,149 ERROR   MainThread:22548 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\wandb\sdk\wandb_init.py", line 968, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 404 Not Found: {"errors":[{"message":"sweep 7dv6ti59 not found","path":["upsertBucket"]}],"data":{"upsertBucket":null}}

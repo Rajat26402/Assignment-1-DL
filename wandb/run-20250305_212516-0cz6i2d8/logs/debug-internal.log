@@ -1,0 +1,14 @@
+{"time":"2025-03-05T21:25:16.6180638+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_212516-0cz6i2d8\\logs\\debug-core.log"}
+{"time":"2025-03-05T21:25:17.9434176+05:30","level":"INFO","msg":"created new stream","id":"0cz6i2d8"}
+{"time":"2025-03-05T21:25:17.9434176+05:30","level":"INFO","msg":"stream: started","id":"0cz6i2d8"}
+{"time":"2025-03-05T21:25:17.9434176+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0cz6i2d8"}
+{"time":"2025-03-05T21:25:17.9434176+05:30","level":"INFO","msg":"handler: started","stream_id":"0cz6i2d8"}
+{"time":"2025-03-05T21:25:17.9439686+05:30","level":"INFO","msg":"sender: started","stream_id":"0cz6i2d8"}
+{"time":"2025-03-05T21:25:22.7510864+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:25:34.3281073+05:30","level":"INFO","msg":"stream: closing","id":"0cz6i2d8"}
+{"time":"2025-03-05T21:25:34.3281073+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:25:34.3289201+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:25:56.6400518+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:26:04.1760411+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m014-iit-madras/DLA1/0cz6i2d8/file_stream\": unexpected EOF"}
+{"time":"2025-03-05T21:26:45.3924322+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m014-iit-madras/DLA1/0cz6i2d8/file_stream\": unexpected EOF"}
+{"time":"2025-03-05T21:27:24.676912+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m014-iit-madras/DLA1/0cz6i2d8/file_stream\": unexpected EOF"}

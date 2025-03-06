@@ -1,0 +1,16 @@
+{"time":"2025-03-06T15:09:06.6173238+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_150906-pd4c81tb\\logs\\debug-core.log"}
+{"time":"2025-03-06T15:09:07.3356957+05:30","level":"INFO","msg":"created new stream","id":"pd4c81tb"}
+{"time":"2025-03-06T15:09:07.3356957+05:30","level":"INFO","msg":"stream: started","id":"pd4c81tb"}
+{"time":"2025-03-06T15:09:07.3356957+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pd4c81tb"}
+{"time":"2025-03-06T15:09:07.3356957+05:30","level":"INFO","msg":"handler: started","stream_id":"pd4c81tb"}
+{"time":"2025-03-06T15:09:07.3356957+05:30","level":"INFO","msg":"sender: started","stream_id":"pd4c81tb"}
+{"time":"2025-03-06T15:09:07.6943564+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T15:10:06.2331313+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T15:10:06.2343169+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T15:10:07.2371315+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3417926},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3417926,"progress":"209B/209B"},{"desc":"uploading config.yaml","runtime_seconds":0.0634803,"progress":"840B/840B"}],"total_operations":3}}
+{"time":"2025-03-06T15:10:07.5225709+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T15:10:08.8793758+05:30","level":"INFO","msg":"stream: closing","id":"pd4c81tb"}
+{"time":"2025-03-06T15:10:08.8793758+05:30","level":"INFO","msg":"handler: closed","stream_id":"pd4c81tb"}
+{"time":"2025-03-06T15:10:08.8793758+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pd4c81tb"}
+{"time":"2025-03-06T15:10:08.8793758+05:30","level":"INFO","msg":"sender: closed","stream_id":"pd4c81tb"}
+{"time":"2025-03-06T15:10:08.8793758+05:30","level":"INFO","msg":"stream: closed","id":"pd4c81tb"}

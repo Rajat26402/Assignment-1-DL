@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:09:38.3642203+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250306_100938-tsxhelcp\\logs\\debug-core.log"}
+{"time":"2025-03-06T10:09:39.082184+05:30","level":"INFO","msg":"created new stream","id":"tsxhelcp"}
+{"time":"2025-03-06T10:09:39.082184+05:30","level":"INFO","msg":"stream: started","id":"tsxhelcp"}
+{"time":"2025-03-06T10:09:39.082184+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tsxhelcp"}
+{"time":"2025-03-06T10:09:39.0827228+05:30","level":"INFO","msg":"handler: started","stream_id":"tsxhelcp"}
+{"time":"2025-03-06T10:09:39.0827228+05:30","level":"INFO","msg":"sender: started","stream_id":"tsxhelcp"}
+{"time":"2025-03-06T10:09:39.4275852+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:09:58.1586196+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:09:58.1598806+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:09:59.0909752+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:09:59.1697024+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 8-9, summary","runtime_seconds":0.0787272}],"total_operations":1}}
+{"time":"2025-03-06T10:10:00.4267397+05:30","level":"INFO","msg":"stream: closing","id":"tsxhelcp"}
+{"time":"2025-03-06T10:10:00.4267397+05:30","level":"INFO","msg":"handler: closed","stream_id":"tsxhelcp"}
+{"time":"2025-03-06T10:10:00.4267397+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tsxhelcp"}
+{"time":"2025-03-06T10:10:00.4267397+05:30","level":"INFO","msg":"sender: closed","stream_id":"tsxhelcp"}
+{"time":"2025-03-06T10:10:00.4267397+05:30","level":"INFO","msg":"stream: closed","id":"tsxhelcp"}

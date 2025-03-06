@@ -1,0 +1,9 @@
+Create sweep with ID: l8d9h7hz
+Sweep URL: https://wandb.ai/da24m014-iit-madras/uncategorized/sweeps/l8d9h7hz
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [32m[41mERROR[0m Error while calling W&B API: could not find sweep da24m014-iit-madras/DLA1/l8d9h7hz during createAgent (<Response [404]>)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [32m[41mERROR[0m Error while calling W&B API: could not find sweep da24m014-iit-madras/DLA1/l8d9h7hz during createAgent (<Response [404]>)
+Create sweep with ID: xpu2naxt
+Sweep URL: https://wandb.ai/da24m014-iit-madras/DLA1/sweeps/xpu2naxt
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

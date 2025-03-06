@@ -1,0 +1,8 @@
+{"time":"2025-03-05T20:10:58.4746353+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250305_201058-mriduj8n\\logs\\debug-core.log"}
+{"time":"2025-03-05T20:10:59.8089913+05:30","level":"INFO","msg":"created new stream","id":"mriduj8n"}
+{"time":"2025-03-05T20:10:59.8089913+05:30","level":"INFO","msg":"stream: started","id":"mriduj8n"}
+{"time":"2025-03-05T20:10:59.8089913+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mriduj8n"}
+{"time":"2025-03-05T20:10:59.8089913+05:30","level":"INFO","msg":"sender: started","stream_id":"mriduj8n"}
+{"time":"2025-03-05T20:10:59.8089913+05:30","level":"INFO","msg":"handler: started","stream_id":"mriduj8n"}
+{"time":"2025-03-05T20:11:00.1492766+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-05T20:11:00.1492766+05:30","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 404 Not Found: {\"errors\":[{\"message\":\"sweep 7dv6ti59 not found\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}

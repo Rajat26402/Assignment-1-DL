@@ -1,0 +1,16 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.2",
+  "startedAt":  "2025-03-06T05:33:05.070671Z",
+  "program":  "d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\assignment_1.ipynb",
+  "codePath":  "assignment_1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Rajat26402/Assignment-1-DL.git",
+    "commit":  "ff7e3728fa59542180e53db3d89b79d38e46313a"
+  },
+  "email":  "da24m014@smail.iitm.ac.in",
+  "root":  "d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL",
+  "host":  "LAPTOP-PI58MJRV",
+  "executable":  "c:\\Program Files\\Python311\\python.exe",
+  "codePathLocal":  "assignment_1.ipynb"
+}
