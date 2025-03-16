@@ -1,0 +1,16 @@
+{"time":"2025-03-16T19:50:26.2577708+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_195026-fchbw370\\logs\\debug-core.log"}
+{"time":"2025-03-16T19:50:27.6570294+05:30","level":"INFO","msg":"created new stream","id":"fchbw370"}
+{"time":"2025-03-16T19:50:27.6570294+05:30","level":"INFO","msg":"stream: started","id":"fchbw370"}
+{"time":"2025-03-16T19:50:27.6570294+05:30","level":"INFO","msg":"sender: started","stream_id":"fchbw370"}
+{"time":"2025-03-16T19:50:27.6575401+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fchbw370"}
+{"time":"2025-03-16T19:50:27.6570294+05:30","level":"INFO","msg":"handler: started","stream_id":"fchbw370"}
+{"time":"2025-03-16T19:50:27.9874164+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T19:50:42.1764501+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T19:50:42.1774682+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T19:50:43.193876+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-fchbw370-confusion_matrix_table","runtime_seconds":1.0602869}],"total_operations":1}}
+{"time":"2025-03-16T19:50:44.8537296+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T19:50:46.1686162+05:30","level":"INFO","msg":"stream: closing","id":"fchbw370"}
+{"time":"2025-03-16T19:50:46.1686162+05:30","level":"INFO","msg":"handler: closed","stream_id":"fchbw370"}
+{"time":"2025-03-16T19:50:46.1686162+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fchbw370"}
+{"time":"2025-03-16T19:50:46.1691979+05:30","level":"INFO","msg":"sender: closed","stream_id":"fchbw370"}
+{"time":"2025-03-16T19:50:46.1691979+05:30","level":"INFO","msg":"stream: closed","id":"fchbw370"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:36:33.9682443+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_083633-19tuy4pa\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:36:34.7014972+05:30","level":"INFO","msg":"created new stream","id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:34.7014972+05:30","level":"INFO","msg":"stream: started","id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:34.7014972+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:34.7020455+05:30","level":"INFO","msg":"sender: started","stream_id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:34.7020455+05:30","level":"INFO","msg":"handler: started","stream_id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:35.5129743+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:36:46.0130074+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:36:46.0138995+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:36:47.0224578+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-19tuy4pa-confusion_matrix_table","runtime_seconds":1.1028129},{"desc":"uploading output.log","runtime_seconds":0.5642744},{"desc":"uploading wandb-summary.json","runtime_seconds":0.5642744,"progress":"876B/876B"},{"desc":"uploading config.yaml","runtime_seconds":0.305149,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:36:49.4146062+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:36:50.7416466+05:30","level":"INFO","msg":"stream: closing","id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:50.7426765+05:30","level":"INFO","msg":"handler: closed","stream_id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:50.7431876+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:50.7431876+05:30","level":"INFO","msg":"sender: closed","stream_id":"19tuy4pa"}
+{"time":"2025-03-10T08:36:50.7437369+05:30","level":"INFO","msg":"stream: closed","id":"19tuy4pa"}

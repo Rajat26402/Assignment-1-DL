@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:19:45.5864211+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_081945-c30duuxl\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:19:46.3321566+05:30","level":"INFO","msg":"created new stream","id":"c30duuxl"}
+{"time":"2025-03-10T08:19:46.3321566+05:30","level":"INFO","msg":"stream: started","id":"c30duuxl"}
+{"time":"2025-03-10T08:19:46.3321566+05:30","level":"INFO","msg":"handler: started","stream_id":"c30duuxl"}
+{"time":"2025-03-10T08:19:46.3321566+05:30","level":"INFO","msg":"sender: started","stream_id":"c30duuxl"}
+{"time":"2025-03-10T08:19:46.3321566+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c30duuxl"}
+{"time":"2025-03-10T08:19:47.081031+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:20:07.2478391+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:20:07.6128405+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:20:08.2540305+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-c30duuxl-confusion_matrix_table","runtime_seconds":1.0432015},{"desc":"uploading output.log","runtime_seconds":0.32282},{"desc":"uploading wandb-summary.json","runtime_seconds":0.32282,"progress":"871B/871B"},{"desc":"uploading config.yaml","runtime_seconds":0.0375537,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:20:10.0046438+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:20:11.7358991+05:30","level":"INFO","msg":"stream: closing","id":"c30duuxl"}
+{"time":"2025-03-10T08:20:11.7358991+05:30","level":"INFO","msg":"handler: closed","stream_id":"c30duuxl"}
+{"time":"2025-03-10T08:20:11.7358991+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c30duuxl"}
+{"time":"2025-03-10T08:20:11.7364154+05:30","level":"INFO","msg":"sender: closed","stream_id":"c30duuxl"}
+{"time":"2025-03-10T08:20:11.7364154+05:30","level":"INFO","msg":"stream: closed","id":"c30duuxl"}

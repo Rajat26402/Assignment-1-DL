@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:31:49.5670807+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_133149-p08mbrvh\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:31:50.3330456+05:30","level":"INFO","msg":"created new stream","id":"p08mbrvh"}
+{"time":"2025-03-16T13:31:50.3330456+05:30","level":"INFO","msg":"stream: started","id":"p08mbrvh"}
+{"time":"2025-03-16T13:31:50.3330456+05:30","level":"INFO","msg":"handler: started","stream_id":"p08mbrvh"}
+{"time":"2025-03-16T13:31:50.3335583+05:30","level":"INFO","msg":"sender: started","stream_id":"p08mbrvh"}
+{"time":"2025-03-16T13:31:50.3335583+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"p08mbrvh"}
+{"time":"2025-03-16T13:31:50.6589967+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:32:11.9250574+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:32:11.9255705+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:32:12.9291791+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-p08mbrvh-confusion_matrix_table","runtime_seconds":1.0460311},{"desc":"uploading output.log","runtime_seconds":0.7130586},{"desc":"uploading media\\table\\confusion_matrix_table_10_fbde6a7ce8118e5c2fc7.table.json","runtime_seconds":0.7130586,"progress":"2.9KB/2.9KB"}],"total_operations":3}}
+{"time":"2025-03-16T13:32:14.4588589+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:32:15.7804136+05:30","level":"INFO","msg":"stream: closing","id":"p08mbrvh"}
+{"time":"2025-03-16T13:32:15.7804136+05:30","level":"INFO","msg":"handler: closed","stream_id":"p08mbrvh"}
+{"time":"2025-03-16T13:32:15.7804136+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"p08mbrvh"}
+{"time":"2025-03-16T13:32:15.7811335+05:30","level":"INFO","msg":"sender: closed","stream_id":"p08mbrvh"}
+{"time":"2025-03-16T13:32:15.7811335+05:30","level":"INFO","msg":"stream: closed","id":"p08mbrvh"}

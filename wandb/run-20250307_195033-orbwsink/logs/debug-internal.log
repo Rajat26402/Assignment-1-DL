@@ -1,0 +1,16 @@
+{"time":"2025-03-07T19:50:33.8135256+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_195033-orbwsink\\logs\\debug-core.log"}
+{"time":"2025-03-07T19:50:35.0689118+05:30","level":"INFO","msg":"created new stream","id":"orbwsink"}
+{"time":"2025-03-07T19:50:35.0689118+05:30","level":"INFO","msg":"stream: started","id":"orbwsink"}
+{"time":"2025-03-07T19:50:35.0689118+05:30","level":"INFO","msg":"handler: started","stream_id":"orbwsink"}
+{"time":"2025-03-07T19:50:35.0689118+05:30","level":"INFO","msg":"sender: started","stream_id":"orbwsink"}
+{"time":"2025-03-07T19:50:35.0689118+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"orbwsink"}
+{"time":"2025-03-07T19:50:35.4376937+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T19:52:19.5131947+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T19:52:19.5137006+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T19:52:20.5193755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3980702,"progress":"214B/214B"}],"total_operations":1}}
+{"time":"2025-03-07T19:52:20.8703036+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T19:52:22.2533826+05:30","level":"INFO","msg":"stream: closing","id":"orbwsink"}
+{"time":"2025-03-07T19:52:22.2533826+05:30","level":"INFO","msg":"handler: closed","stream_id":"orbwsink"}
+{"time":"2025-03-07T19:52:22.2533826+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"orbwsink"}
+{"time":"2025-03-07T19:52:22.2533826+05:30","level":"INFO","msg":"sender: closed","stream_id":"orbwsink"}
+{"time":"2025-03-07T19:52:22.2543727+05:30","level":"INFO","msg":"stream: closed","id":"orbwsink"}

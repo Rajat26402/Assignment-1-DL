@@ -1,0 +1,16 @@
+{"time":"2025-03-16T11:59:13.5973562+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_115913-04ux66ws\\logs\\debug-core.log"}
+{"time":"2025-03-16T11:59:14.3215909+05:30","level":"INFO","msg":"created new stream","id":"04ux66ws"}
+{"time":"2025-03-16T11:59:14.3215909+05:30","level":"INFO","msg":"stream: started","id":"04ux66ws"}
+{"time":"2025-03-16T11:59:14.3215909+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"04ux66ws"}
+{"time":"2025-03-16T11:59:14.3221766+05:30","level":"INFO","msg":"handler: started","stream_id":"04ux66ws"}
+{"time":"2025-03-16T11:59:14.3221766+05:30","level":"INFO","msg":"sender: started","stream_id":"04ux66ws"}
+{"time":"2025-03-16T11:59:14.6691542+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:59:26.9806235+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T11:59:26.9811517+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T11:59:27.987526+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-04ux66ws-confusion_matrix_table","runtime_seconds":1.0401074}],"total_operations":1}}
+{"time":"2025-03-16T11:59:29.510994+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T11:59:30.8456528+05:30","level":"INFO","msg":"stream: closing","id":"04ux66ws"}
+{"time":"2025-03-16T11:59:30.8456528+05:30","level":"INFO","msg":"handler: closed","stream_id":"04ux66ws"}
+{"time":"2025-03-16T11:59:30.8456528+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"04ux66ws"}
+{"time":"2025-03-16T11:59:30.8465276+05:30","level":"INFO","msg":"sender: closed","stream_id":"04ux66ws"}
+{"time":"2025-03-16T11:59:30.8465276+05:30","level":"INFO","msg":"stream: closed","id":"04ux66ws"}

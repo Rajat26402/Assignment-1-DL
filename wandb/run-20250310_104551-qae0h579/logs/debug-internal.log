@@ -1,0 +1,17 @@
+{"time":"2025-03-10T10:45:51.1759141+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_104551-qae0h579\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:45:51.9050315+05:30","level":"INFO","msg":"created new stream","id":"qae0h579"}
+{"time":"2025-03-10T10:45:51.9050315+05:30","level":"INFO","msg":"stream: started","id":"qae0h579"}
+{"time":"2025-03-10T10:45:51.9050315+05:30","level":"INFO","msg":"handler: started","stream_id":"qae0h579"}
+{"time":"2025-03-10T10:45:51.9050315+05:30","level":"INFO","msg":"sender: started","stream_id":"qae0h579"}
+{"time":"2025-03-10T10:45:51.9050315+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qae0h579"}
+{"time":"2025-03-10T10:45:52.4231483+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:45:52.7316085+05:30","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-production.appspot.com/da24m014-iit-madras/DLA1/qae0h579/wandb-metadata.json?Expires=1741670150&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=ejQFUn2jK%2FxUNZ2gf2l1vyT7ksnpeaEnvxkwlc%2Fr3VCbR7diB7fSMcWzhsoci6P3A7QZTHv%2FfKEB6Y%2FJfbjf7Yz7iwiXQ4dozUwmHLYYOyCGI2Ej%2FP3fhpP5rIL%2FpD2bTNbwunFXLJm7qKZl8OIXpgNHKUSy9d3KLzCu81allftFbHc6MYLZYVNag9pkZ2qWRhdUfS6Zd9lPYUh2jU6Hk2ZP6PSLBUoLghIYs4c3hlM98E%2BbabFdxIGPDotJqR5gd%2FevY1bfb3dyHJzYoAow1iImBUmE5ofAVXFbNmPBEz0aUM1ITG6A1j52%2BFJn8KKRNmr9qKdxGoJqtWIVFbU2wg%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-production.appspot.com/da24m014-iit-madras/DLA1/qae0h579/wandb-metadata.json?Expires=1741670150&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=ejQFUn2jK%2FxUNZ2gf2l1vyT7ksnpeaEnvxkwlc%2Fr3VCbR7diB7fSMcWzhsoci6P3A7QZTHv%2FfKEB6Y%2FJfbjf7Yz7iwiXQ4dozUwmHLYYOyCGI2Ej%2FP3fhpP5rIL%2FpD2bTNbwunFXLJm7qKZl8OIXpgNHKUSy9d3KLzCu81allftFbHc6MYLZYVNag9pkZ2qWRhdUfS6Zd9lPYUh2jU6Hk2ZP6PSLBUoLghIYs4c3hlM98E%2BbabFdxIGPDotJqR5gd%2FevY1bfb3dyHJzYoAow1iImBUmE5ofAVXFbNmPBEz0aUM1ITG6A1j52%2BFJn8KKRNmr9qKdxGoJqtWIVFbU2wg%3D%3D"}
+{"time":"2025-03-10T10:45:58.154129+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:45:58.1552265+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:45:59.1568085+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-qae0h579-confusion_matrix_table","runtime_seconds":1.0474372},{"desc":"uploading media\\table\\confusion_matrix_table_5_c1aeb75a929ddd6b24b5.table.json","runtime_seconds":0.7048175,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4213777,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-10T10:46:00.7105609+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:46:03.1134441+05:30","level":"INFO","msg":"stream: closing","id":"qae0h579"}
+{"time":"2025-03-10T10:46:03.1134441+05:30","level":"INFO","msg":"handler: closed","stream_id":"qae0h579"}
+{"time":"2025-03-10T10:46:03.1134441+05:30","level":"INFO","msg":"sender: closed","stream_id":"qae0h579"}
+{"time":"2025-03-10T10:46:03.1134441+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qae0h579"}
+{"time":"2025-03-10T10:46:03.1139542+05:30","level":"INFO","msg":"stream: closed","id":"qae0h579"}

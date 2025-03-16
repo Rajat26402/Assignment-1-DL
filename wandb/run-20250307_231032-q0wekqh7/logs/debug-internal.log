@@ -1,0 +1,17 @@
+{"time":"2025-03-07T23:10:32.2895701+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_231032-q0wekqh7\\logs\\debug-core.log"}
+{"time":"2025-03-07T23:10:33.0100379+05:30","level":"INFO","msg":"created new stream","id":"q0wekqh7"}
+{"time":"2025-03-07T23:10:33.0100379+05:30","level":"INFO","msg":"stream: started","id":"q0wekqh7"}
+{"time":"2025-03-07T23:10:33.0100379+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"q0wekqh7"}
+{"time":"2025-03-07T23:10:33.0100379+05:30","level":"INFO","msg":"sender: started","stream_id":"q0wekqh7"}
+{"time":"2025-03-07T23:10:33.0100379+05:30","level":"INFO","msg":"handler: started","stream_id":"q0wekqh7"}
+{"time":"2025-03-07T23:10:33.3847884+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T23:11:35.4519347+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T23:11:35.4524393+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T23:11:36.4641183+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 7-8","runtime_seconds":2.3025996}],"total_operations":1}}
+{"time":"2025-03-07T23:11:52.8971763+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.100:52752->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-07T23:11:56.8578766+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T23:11:58.2524837+05:30","level":"INFO","msg":"stream: closing","id":"q0wekqh7"}
+{"time":"2025-03-07T23:11:58.2524837+05:30","level":"INFO","msg":"handler: closed","stream_id":"q0wekqh7"}
+{"time":"2025-03-07T23:11:58.2524837+05:30","level":"INFO","msg":"sender: closed","stream_id":"q0wekqh7"}
+{"time":"2025-03-07T23:11:58.2524837+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"q0wekqh7"}
+{"time":"2025-03-07T23:11:58.2524837+05:30","level":"INFO","msg":"stream: closed","id":"q0wekqh7"}

@@ -1,0 +1,17 @@
+{"time":"2025-03-07T23:03:03.5995124+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_230303-gg9wrr9l\\logs\\debug-core.log"}
+{"time":"2025-03-07T23:03:04.3303289+05:30","level":"INFO","msg":"created new stream","id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:04.3303289+05:30","level":"INFO","msg":"stream: started","id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:04.3303289+05:30","level":"INFO","msg":"handler: started","stream_id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:04.3303289+05:30","level":"INFO","msg":"sender: started","stream_id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:04.3303289+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:20.3277814+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": unexpected EOF"}
+{"time":"2025-03-07T23:03:23.5485335+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T23:03:54.1879722+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T23:03:54.6426278+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T23:03:55.2012232+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.0550978}],"total_operations":1}}
+{"time":"2025-03-07T23:03:56.1429116+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T23:03:57.5263249+05:30","level":"INFO","msg":"stream: closing","id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:57.5263249+05:30","level":"INFO","msg":"handler: closed","stream_id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:57.5278321+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:57.5278321+05:30","level":"INFO","msg":"sender: closed","stream_id":"gg9wrr9l"}
+{"time":"2025-03-07T23:03:57.5278321+05:30","level":"INFO","msg":"stream: closed","id":"gg9wrr9l"}

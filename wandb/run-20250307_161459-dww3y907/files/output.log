@@ -1,0 +1,6 @@
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_28612\1951885281.py:52: RuntimeWarning: overflow encountered in square
+  loss += (self.weight_decay / 2) * sum(np.sum(W**2) for W in self.weights)
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_28612\889659532.py:25: RuntimeWarning: overflow encountered in square
+  return 1 - A**2  # Works because in forward pass, A = tanh(Z)
+C:\Users\Rajat\AppData\Roaming\Python\Python311\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T19:40:53.1461264+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_194053-yyzy76th\\logs\\debug-core.log"}
+{"time":"2025-03-16T19:40:54.4728085+05:30","level":"INFO","msg":"created new stream","id":"yyzy76th"}
+{"time":"2025-03-16T19:40:54.4728085+05:30","level":"INFO","msg":"stream: started","id":"yyzy76th"}
+{"time":"2025-03-16T19:40:54.4728085+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yyzy76th"}
+{"time":"2025-03-16T19:40:54.4728085+05:30","level":"INFO","msg":"sender: started","stream_id":"yyzy76th"}
+{"time":"2025-03-16T19:40:54.4733558+05:30","level":"INFO","msg":"handler: started","stream_id":"yyzy76th"}
+{"time":"2025-03-16T19:40:54.8226202+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T19:41:05.6985481+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T19:41:05.9111785+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T19:41:06.701569+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-yyzy76th-confusion_matrix_table","runtime_seconds":1.0379455},{"desc":"uploading output.log","runtime_seconds":0.2119682},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2119682,"progress":"1019B/1019B"},{"desc":"uploading config.yaml","runtime_seconds":0.2119682,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T19:41:08.2398023+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T19:41:09.6212084+05:30","level":"INFO","msg":"stream: closing","id":"yyzy76th"}
+{"time":"2025-03-16T19:41:09.6212084+05:30","level":"INFO","msg":"handler: closed","stream_id":"yyzy76th"}
+{"time":"2025-03-16T19:41:09.6212084+05:30","level":"INFO","msg":"sender: closed","stream_id":"yyzy76th"}
+{"time":"2025-03-16T19:41:09.6212084+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yyzy76th"}
+{"time":"2025-03-16T19:41:09.6219693+05:30","level":"INFO","msg":"stream: closed","id":"yyzy76th"}

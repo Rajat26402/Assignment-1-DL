@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:45:49.9831707+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_214549-ssisx6i0\\logs\\debug-core.log"}
+{"time":"2025-03-07T21:45:51.3951151+05:30","level":"INFO","msg":"created new stream","id":"ssisx6i0"}
+{"time":"2025-03-07T21:45:51.3951151+05:30","level":"INFO","msg":"stream: started","id":"ssisx6i0"}
+{"time":"2025-03-07T21:45:51.3951151+05:30","level":"INFO","msg":"sender: started","stream_id":"ssisx6i0"}
+{"time":"2025-03-07T21:45:51.3951151+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ssisx6i0"}
+{"time":"2025-03-07T21:45:51.3951151+05:30","level":"INFO","msg":"handler: started","stream_id":"ssisx6i0"}
+{"time":"2025-03-07T21:45:51.7500317+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:46:00.8844775+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:46:00.8849819+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:46:01.8954139+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3803237,"progress":"859B/859B"}],"total_operations":1}}
+{"time":"2025-03-07T21:46:02.5399594+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:46:03.8940087+05:30","level":"INFO","msg":"stream: closing","id":"ssisx6i0"}
+{"time":"2025-03-07T21:46:03.8940087+05:30","level":"INFO","msg":"handler: closed","stream_id":"ssisx6i0"}
+{"time":"2025-03-07T21:46:03.8940087+05:30","level":"INFO","msg":"sender: closed","stream_id":"ssisx6i0"}
+{"time":"2025-03-07T21:46:03.8940087+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ssisx6i0"}
+{"time":"2025-03-07T21:46:03.8945612+05:30","level":"INFO","msg":"stream: closed","id":"ssisx6i0"}

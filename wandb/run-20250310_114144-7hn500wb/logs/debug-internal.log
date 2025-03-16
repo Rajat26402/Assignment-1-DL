@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:41:44.2281566+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_114144-7hn500wb\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:41:45.5510333+05:30","level":"INFO","msg":"created new stream","id":"7hn500wb"}
+{"time":"2025-03-10T11:41:45.5515911+05:30","level":"INFO","msg":"stream: started","id":"7hn500wb"}
+{"time":"2025-03-10T11:41:45.5515911+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7hn500wb"}
+{"time":"2025-03-10T11:41:45.5521775+05:30","level":"INFO","msg":"handler: started","stream_id":"7hn500wb"}
+{"time":"2025-03-10T11:41:45.5521775+05:30","level":"INFO","msg":"sender: started","stream_id":"7hn500wb"}
+{"time":"2025-03-10T11:41:45.9700843+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:41:55.8210731+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:41:55.821749+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:41:56.8371042+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-7hn500wb-confusion_matrix_table","runtime_seconds":1.0506781},{"desc":"uploading media\\table\\confusion_matrix_table_5_f3e2f0a93c9b22a830ab.table.json","runtime_seconds":0.7202709,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7202709},{"desc":"uploading config.yaml","runtime_seconds":0.3833686,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T11:41:59.0396377+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:42:00.4787935+05:30","level":"INFO","msg":"stream: closing","id":"7hn500wb"}
+{"time":"2025-03-10T11:42:00.4787935+05:30","level":"INFO","msg":"handler: closed","stream_id":"7hn500wb"}
+{"time":"2025-03-10T11:42:00.4787935+05:30","level":"INFO","msg":"sender: closed","stream_id":"7hn500wb"}
+{"time":"2025-03-10T11:42:00.4787935+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7hn500wb"}
+{"time":"2025-03-10T11:42:00.479754+05:30","level":"INFO","msg":"stream: closed","id":"7hn500wb"}

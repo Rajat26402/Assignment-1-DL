@@ -1,0 +1,2 @@
+C:\Users\Rajat\AppData\Local\Temp\ipykernel_29468\4055883631.py:39: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  Z = self.A[-1] @ self.weights[i] + self.biases[i]

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:44:52.3303722+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_084452-dugwrbu5\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:44:53.0657807+05:30","level":"INFO","msg":"created new stream","id":"dugwrbu5"}
+{"time":"2025-03-10T08:44:53.0657807+05:30","level":"INFO","msg":"stream: started","id":"dugwrbu5"}
+{"time":"2025-03-10T08:44:53.0657807+05:30","level":"INFO","msg":"handler: started","stream_id":"dugwrbu5"}
+{"time":"2025-03-10T08:44:53.0657807+05:30","level":"INFO","msg":"sender: started","stream_id":"dugwrbu5"}
+{"time":"2025-03-10T08:44:53.0657807+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dugwrbu5"}
+{"time":"2025-03-10T08:44:53.4482733+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:45:44.9292705+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:45:44.9303608+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:45:45.9340926+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-dugwrbu5-confusion_matrix_table","runtime_seconds":1.058698},{"desc":"uploading media\\table\\confusion_matrix_table_10_a890c1b4f37f8598ab3e.table.json","runtime_seconds":0.7136068,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3997037,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-10T08:45:47.4741071+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:45:48.8004772+05:30","level":"INFO","msg":"stream: closing","id":"dugwrbu5"}
+{"time":"2025-03-10T08:45:48.8004772+05:30","level":"INFO","msg":"handler: closed","stream_id":"dugwrbu5"}
+{"time":"2025-03-10T08:45:48.8004772+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dugwrbu5"}
+{"time":"2025-03-10T08:45:48.8004772+05:30","level":"INFO","msg":"sender: closed","stream_id":"dugwrbu5"}
+{"time":"2025-03-10T08:45:48.8009832+05:30","level":"INFO","msg":"stream: closed","id":"dugwrbu5"}

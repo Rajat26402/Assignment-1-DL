@@ -1,0 +1,17 @@
+{"time":"2025-03-10T12:53:22.9320316+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_125322-iohf6rvx\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:53:23.6535659+05:30","level":"INFO","msg":"created new stream","id":"iohf6rvx"}
+{"time":"2025-03-10T12:53:23.6535659+05:30","level":"INFO","msg":"stream: started","id":"iohf6rvx"}
+{"time":"2025-03-10T12:53:23.6535659+05:30","level":"INFO","msg":"handler: started","stream_id":"iohf6rvx"}
+{"time":"2025-03-10T12:53:23.6535659+05:30","level":"INFO","msg":"sender: started","stream_id":"iohf6rvx"}
+{"time":"2025-03-10T12:53:23.6535659+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"iohf6rvx"}
+{"time":"2025-03-10T12:53:24.0116164+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:54:24.9705613+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/da24m014-iit-madras/DLA1/iohf6rvx/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-03-10T12:54:26.7445885+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:54:26.7455839+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:54:27.750734+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":63.0392934,"error_status":"retrying HTTP 502 Bad Gateway"},{"desc":"uploading artifact run-iohf6rvx-confusion_matrix_table","runtime_seconds":1.0496787}],"total_operations":2}}
+{"time":"2025-03-10T12:54:29.3591152+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:54:30.6974787+05:30","level":"INFO","msg":"stream: closing","id":"iohf6rvx"}
+{"time":"2025-03-10T12:54:30.6974787+05:30","level":"INFO","msg":"handler: closed","stream_id":"iohf6rvx"}
+{"time":"2025-03-10T12:54:30.6974787+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"iohf6rvx"}
+{"time":"2025-03-10T12:54:30.6974787+05:30","level":"INFO","msg":"sender: closed","stream_id":"iohf6rvx"}
+{"time":"2025-03-10T12:54:30.6979881+05:30","level":"INFO","msg":"stream: closed","id":"iohf6rvx"}

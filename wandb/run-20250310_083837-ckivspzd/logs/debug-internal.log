@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:38:37.1137099+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_083837-ckivspzd\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:38:37.8341555+05:30","level":"INFO","msg":"created new stream","id":"ckivspzd"}
+{"time":"2025-03-10T08:38:37.8347892+05:30","level":"INFO","msg":"handler: started","stream_id":"ckivspzd"}
+{"time":"2025-03-10T08:38:37.8347892+05:30","level":"INFO","msg":"stream: started","id":"ckivspzd"}
+{"time":"2025-03-10T08:38:37.8347892+05:30","level":"INFO","msg":"sender: started","stream_id":"ckivspzd"}
+{"time":"2025-03-10T08:38:37.8347892+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ckivspzd"}
+{"time":"2025-03-10T08:38:38.8814142+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:38:48.046786+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:38:48.0478877+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:38:49.0581967+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ckivspzd-confusion_matrix_table","runtime_seconds":1.0384614},{"desc":"uploading media\\table\\confusion_matrix_table_5_88f44e1bb5c1672f9adb.table.json","runtime_seconds":0.6367947,"progress":"2.8KB/2.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6367947,"progress":"870B/870B"},{"desc":"uploading config.yaml","runtime_seconds":0.318399,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:38:52.2020052+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:38:53.5964692+05:30","level":"INFO","msg":"stream: closing","id":"ckivspzd"}
+{"time":"2025-03-10T08:38:53.5964692+05:30","level":"INFO","msg":"handler: closed","stream_id":"ckivspzd"}
+{"time":"2025-03-10T08:38:53.5969833+05:30","level":"INFO","msg":"sender: closed","stream_id":"ckivspzd"}
+{"time":"2025-03-10T08:38:53.5964692+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ckivspzd"}
+{"time":"2025-03-10T08:38:53.5980177+05:30","level":"INFO","msg":"stream: closed","id":"ckivspzd"}

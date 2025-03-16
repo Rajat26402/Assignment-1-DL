@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:52:22.0300983+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_115222-bp0782jq\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:52:23.3529933+05:30","level":"INFO","msg":"created new stream","id":"bp0782jq"}
+{"time":"2025-03-10T11:52:23.3529933+05:30","level":"INFO","msg":"stream: started","id":"bp0782jq"}
+{"time":"2025-03-10T11:52:23.3529933+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bp0782jq"}
+{"time":"2025-03-10T11:52:23.3529933+05:30","level":"INFO","msg":"sender: started","stream_id":"bp0782jq"}
+{"time":"2025-03-10T11:52:23.3529933+05:30","level":"INFO","msg":"handler: started","stream_id":"bp0782jq"}
+{"time":"2025-03-10T11:52:23.7769607+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:52:54.8556032+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:52:54.8561583+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:52:55.8690419+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-bp0782jq-confusion_matrix_table","runtime_seconds":1.0476461},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7074342,"progress":"1.0KB/1.0KB"},{"desc":"uploading media\\table\\confusion_matrix_table_5_02c49698162b1b9c7cbb.table.json","runtime_seconds":0.7074342,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7074342},{"desc":"uploading config.yaml","runtime_seconds":0.3582351,"progress":"2.2KB/2.2KB"}],"total_operations":5}}
+{"time":"2025-03-10T11:52:58.2547814+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:52:59.7955786+05:30","level":"INFO","msg":"stream: closing","id":"bp0782jq"}
+{"time":"2025-03-10T11:52:59.7955786+05:30","level":"INFO","msg":"handler: closed","stream_id":"bp0782jq"}
+{"time":"2025-03-10T11:52:59.7955786+05:30","level":"INFO","msg":"sender: closed","stream_id":"bp0782jq"}
+{"time":"2025-03-10T11:52:59.7955786+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bp0782jq"}
+{"time":"2025-03-10T11:52:59.7955786+05:30","level":"INFO","msg":"stream: closed","id":"bp0782jq"}

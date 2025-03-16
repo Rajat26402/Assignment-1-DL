@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:39:29.5917414+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_113929-c3suuejo\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:39:30.3132629+05:30","level":"INFO","msg":"created new stream","id":"c3suuejo"}
+{"time":"2025-03-10T11:39:30.3132629+05:30","level":"INFO","msg":"stream: started","id":"c3suuejo"}
+{"time":"2025-03-10T11:39:30.3132629+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c3suuejo"}
+{"time":"2025-03-10T11:39:30.3132629+05:30","level":"INFO","msg":"sender: started","stream_id":"c3suuejo"}
+{"time":"2025-03-10T11:39:30.3132629+05:30","level":"INFO","msg":"handler: started","stream_id":"c3suuejo"}
+{"time":"2025-03-10T11:39:30.6956231+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:39:39.4128297+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:39:39.4133448+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:39:40.424234+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-c3suuejo-confusion_matrix_table","runtime_seconds":1.0564476},{"desc":"uploading media\\table\\confusion_matrix_table_5_c4a6277c22a992a2a213.table.json","runtime_seconds":0.7056204,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7056204,"progress":"1017B/1017B"},{"desc":"uploading config.yaml","runtime_seconds":0.3870848,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T11:39:42.1584583+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:39:43.5646264+05:30","level":"INFO","msg":"stream: closing","id":"c3suuejo"}
+{"time":"2025-03-10T11:39:43.5646264+05:30","level":"INFO","msg":"handler: closed","stream_id":"c3suuejo"}
+{"time":"2025-03-10T11:39:43.5646264+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c3suuejo"}
+{"time":"2025-03-10T11:39:43.5651423+05:30","level":"INFO","msg":"sender: closed","stream_id":"c3suuejo"}
+{"time":"2025-03-10T11:39:43.5658421+05:30","level":"INFO","msg":"stream: closed","id":"c3suuejo"}

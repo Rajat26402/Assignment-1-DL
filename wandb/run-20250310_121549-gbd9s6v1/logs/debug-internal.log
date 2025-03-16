@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:15:49.9453511+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_121549-gbd9s6v1\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:15:50.6649214+05:30","level":"INFO","msg":"created new stream","id":"gbd9s6v1"}
+{"time":"2025-03-10T12:15:50.6649214+05:30","level":"INFO","msg":"stream: started","id":"gbd9s6v1"}
+{"time":"2025-03-10T12:15:50.6649214+05:30","level":"INFO","msg":"handler: started","stream_id":"gbd9s6v1"}
+{"time":"2025-03-10T12:15:50.6649214+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gbd9s6v1"}
+{"time":"2025-03-10T12:15:50.6649214+05:30","level":"INFO","msg":"sender: started","stream_id":"gbd9s6v1"}
+{"time":"2025-03-10T12:15:51.0631406+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:16:17.8292451+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:16:17.8297488+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:16:18.8327067+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-gbd9s6v1-confusion_matrix_table","runtime_seconds":1.0382037},{"desc":"uploading media\\table\\confusion_matrix_table_5_dada1b9b28b582fa818c.table.json","runtime_seconds":0.7094515,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7094515,"progress":"1010B/1010B"},{"desc":"uploading config.yaml","runtime_seconds":0.3998143,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T12:16:20.307312+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:16:21.6518021+05:30","level":"INFO","msg":"stream: closing","id":"gbd9s6v1"}
+{"time":"2025-03-10T12:16:21.6518021+05:30","level":"INFO","msg":"handler: closed","stream_id":"gbd9s6v1"}
+{"time":"2025-03-10T12:16:21.6518021+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gbd9s6v1"}
+{"time":"2025-03-10T12:16:21.6518021+05:30","level":"INFO","msg":"sender: closed","stream_id":"gbd9s6v1"}
+{"time":"2025-03-10T12:16:21.6525286+05:30","level":"INFO","msg":"stream: closed","id":"gbd9s6v1"}

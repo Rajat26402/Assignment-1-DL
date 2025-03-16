@@ -1,0 +1,80 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.2",
+  "startedAt":  "2025-03-16T16:19:21.197824Z",
+  "args":  [
+    "-wp",
+    "DLA1",
+    "-we",
+    "da24m014-iit-madras",
+    "-d",
+    "fashion_mnist",
+    "-e",
+    "10",
+    "-b",
+    "32",
+    "-l",
+    "cross_entropy",
+    "-o",
+    "adam",
+    "-lr",
+    "0.001",
+    "-m",
+    "0.9",
+    "-beta",
+    "0.9",
+    "-beta1",
+    "0.9",
+    "-beta2",
+    "0.999",
+    "-eps",
+    "1e-6",
+    "-w_d",
+    "0.0001",
+    "-w_i",
+    "Xavier",
+    "-nhl",
+    "2",
+    "-sz",
+    "128",
+    "-a",
+    "tanh"
+  ],
+  "program":  "D:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\train.py",
+  "codePath":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/Rajat26402/Assignment-1-DL.git",
+    "commit":  "fcf27d58a03057334ef4444ac826c6e99812c6a1"
+  },
+  "email":  "da24m014@smail.iitm.ac.in",
+  "root":  "D:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL",
+  "host":  "LAPTOP-PI58MJRV",
+  "executable":  "C:\\Program Files\\Python311\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "613768228864",
+      "used":  "453655429120"
+    }
+  },
+  "memory":  {
+    "total":  "16856203264"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2048,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}

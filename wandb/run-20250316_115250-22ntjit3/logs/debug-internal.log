@@ -1,0 +1,16 @@
+{"time":"2025-03-16T11:52:50.7124248+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_115250-22ntjit3\\logs\\debug-core.log"}
+{"time":"2025-03-16T11:52:51.5336571+05:30","level":"INFO","msg":"created new stream","id":"22ntjit3"}
+{"time":"2025-03-16T11:52:51.5336571+05:30","level":"INFO","msg":"stream: started","id":"22ntjit3"}
+{"time":"2025-03-16T11:52:51.5336571+05:30","level":"INFO","msg":"handler: started","stream_id":"22ntjit3"}
+{"time":"2025-03-16T11:52:51.5336571+05:30","level":"INFO","msg":"sender: started","stream_id":"22ntjit3"}
+{"time":"2025-03-16T11:52:51.5341854+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"22ntjit3"}
+{"time":"2025-03-16T11:52:51.8786285+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:53:01.0342427+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T11:53:01.0347488+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T11:53:02.0380957+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-22ntjit3-confusion_matrix_table","runtime_seconds":1.0387565},{"desc":"uploading media\\table\\confusion_matrix_table_5_e5aeda885e06ab29cbc5.table.json","runtime_seconds":0.7094497,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7094497},{"desc":"uploading config.yaml","runtime_seconds":0.3933353,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T11:53:03.5635446+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T11:53:04.8976867+05:30","level":"INFO","msg":"stream: closing","id":"22ntjit3"}
+{"time":"2025-03-16T11:53:04.8976867+05:30","level":"INFO","msg":"handler: closed","stream_id":"22ntjit3"}
+{"time":"2025-03-16T11:53:04.8976867+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"22ntjit3"}
+{"time":"2025-03-16T11:53:04.8976867+05:30","level":"INFO","msg":"sender: closed","stream_id":"22ntjit3"}
+{"time":"2025-03-16T11:53:04.8976867+05:30","level":"INFO","msg":"stream: closed","id":"22ntjit3"}

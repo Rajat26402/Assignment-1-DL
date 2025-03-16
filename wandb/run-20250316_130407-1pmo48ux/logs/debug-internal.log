@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:04:07.4103474+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_130407-1pmo48ux\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:04:08.1300794+05:30","level":"INFO","msg":"created new stream","id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:08.1300794+05:30","level":"INFO","msg":"stream: started","id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:08.1300794+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:08.1300794+05:30","level":"INFO","msg":"sender: started","stream_id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:08.1300794+05:30","level":"INFO","msg":"handler: started","stream_id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:08.4797388+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:04:24.8346196+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:04:24.8351255+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:04:25.8428901+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-1pmo48ux-confusion_matrix_table","runtime_seconds":1.0417635},{"desc":"uploading media\\table\\confusion_matrix_table_10_f56f4f8b73f14695f2de.table.json","runtime_seconds":0.7246849,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7246849,"progress":"1.0KB/1.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4334808,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T13:04:27.3421662+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:04:28.6655561+05:30","level":"INFO","msg":"stream: closing","id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:28.6655561+05:30","level":"INFO","msg":"handler: closed","stream_id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:28.6655561+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:28.6655561+05:30","level":"INFO","msg":"sender: closed","stream_id":"1pmo48ux"}
+{"time":"2025-03-16T13:04:28.6660624+05:30","level":"INFO","msg":"stream: closed","id":"1pmo48ux"}

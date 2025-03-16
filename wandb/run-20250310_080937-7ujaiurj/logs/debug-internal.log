@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:09:37.4107473+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_080937-7ujaiurj\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:09:38.1422219+05:30","level":"INFO","msg":"created new stream","id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:38.1422219+05:30","level":"INFO","msg":"stream: started","id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:38.1422219+05:30","level":"INFO","msg":"handler: started","stream_id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:38.1422219+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:38.1422219+05:30","level":"INFO","msg":"sender: started","stream_id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:38.4816889+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:09:47.0645569+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:09:47.0656421+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:09:48.0709516+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-7ujaiurj-ConfusionMatrixvalidationepoch4_table","runtime_seconds":1.7856645},{"desc":"uploading artifact run-7ujaiurj-FinalConfusionMatrixvalidationepoch5_table","runtime_seconds":1.4072079,"subtasks":[{"desc":"Final Confusion Matrix (validation, epoch 5)_table.table.json","runtime_seconds":0.1718545,"progress":"3.3KB/3.3KB"}]},{"desc":"uploading artifact run-7ujaiurj-FinalConfusionMatrixtestepoch5_table","runtime_seconds":1.0423253},{"desc":"uploading config.yaml","runtime_seconds":0.3159851,"progress":"10.3KB/10.3KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:09:50.5297476+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:09:51.8875296+05:30","level":"INFO","msg":"stream: closing","id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:51.8875296+05:30","level":"INFO","msg":"handler: closed","stream_id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:51.8875296+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:51.8875296+05:30","level":"INFO","msg":"sender: closed","stream_id":"7ujaiurj"}
+{"time":"2025-03-10T08:09:51.8875296+05:30","level":"INFO","msg":"stream: closed","id":"7ujaiurj"}

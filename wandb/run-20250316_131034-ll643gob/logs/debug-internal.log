@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:10:34.7660496+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_131034-ll643gob\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:10:35.4843155+05:30","level":"INFO","msg":"created new stream","id":"ll643gob"}
+{"time":"2025-03-16T13:10:35.4848993+05:30","level":"INFO","msg":"stream: started","id":"ll643gob"}
+{"time":"2025-03-16T13:10:35.4848993+05:30","level":"INFO","msg":"handler: started","stream_id":"ll643gob"}
+{"time":"2025-03-16T13:10:35.4848993+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ll643gob"}
+{"time":"2025-03-16T13:10:35.4848993+05:30","level":"INFO","msg":"sender: started","stream_id":"ll643gob"}
+{"time":"2025-03-16T13:10:35.958172+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:11:39.2994719+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:11:39.2999759+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:11:40.3055608+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ll643gob-confusion_matrix_table","runtime_seconds":1.0570708},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7226721,"progress":"1.0KB/1.0KB"},{"desc":"uploading media\\table\\confusion_matrix_table_10_4e5b72af4f593776aedf.table.json","runtime_seconds":0.7226721,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4279955,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T13:11:42.6368984+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:11:43.9525866+05:30","level":"INFO","msg":"stream: closing","id":"ll643gob"}
+{"time":"2025-03-16T13:11:43.9525866+05:30","level":"INFO","msg":"handler: closed","stream_id":"ll643gob"}
+{"time":"2025-03-16T13:11:43.9534425+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ll643gob"}
+{"time":"2025-03-16T13:11:43.9534425+05:30","level":"INFO","msg":"sender: closed","stream_id":"ll643gob"}
+{"time":"2025-03-16T13:11:43.9534425+05:30","level":"INFO","msg":"stream: closed","id":"ll643gob"}

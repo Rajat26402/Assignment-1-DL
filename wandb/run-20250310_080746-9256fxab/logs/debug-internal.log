@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:07:46.1240652+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_080746-9256fxab\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:07:47.7915955+05:30","level":"INFO","msg":"created new stream","id":"9256fxab"}
+{"time":"2025-03-10T08:07:47.7915955+05:30","level":"INFO","msg":"stream: started","id":"9256fxab"}
+{"time":"2025-03-10T08:07:47.7915955+05:30","level":"INFO","msg":"handler: started","stream_id":"9256fxab"}
+{"time":"2025-03-10T08:07:47.7921127+05:30","level":"INFO","msg":"sender: started","stream_id":"9256fxab"}
+{"time":"2025-03-10T08:07:47.7921127+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9256fxab"}
+{"time":"2025-03-10T08:07:48.2505421+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:09:03.7598732+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:09:03.7603785+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:09:04.7776811+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-9256fxab-FinalConfusionMatrixvalidationepoch10_table","runtime_seconds":1.6761827},{"desc":"uploading artifact run-9256fxab-FinalConfusionMatrixtestepoch10_table","runtime_seconds":1.2053358}],"total_operations":2}}
+{"time":"2025-03-10T08:09:07.017955+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:09:08.3576884+05:30","level":"INFO","msg":"stream: closing","id":"9256fxab"}
+{"time":"2025-03-10T08:09:08.3576884+05:30","level":"INFO","msg":"handler: closed","stream_id":"9256fxab"}
+{"time":"2025-03-10T08:09:08.3576884+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9256fxab"}
+{"time":"2025-03-10T08:09:08.3586862+05:30","level":"INFO","msg":"sender: closed","stream_id":"9256fxab"}
+{"time":"2025-03-10T08:09:08.3597879+05:30","level":"INFO","msg":"stream: closed","id":"9256fxab"}

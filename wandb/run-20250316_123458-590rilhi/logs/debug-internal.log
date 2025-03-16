@@ -1,0 +1,16 @@
+{"time":"2025-03-16T12:34:58.371004+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_123458-590rilhi\\logs\\debug-core.log"}
+{"time":"2025-03-16T12:34:59.0920762+05:30","level":"INFO","msg":"created new stream","id":"590rilhi"}
+{"time":"2025-03-16T12:34:59.0926365+05:30","level":"INFO","msg":"stream: started","id":"590rilhi"}
+{"time":"2025-03-16T12:34:59.0926365+05:30","level":"INFO","msg":"sender: started","stream_id":"590rilhi"}
+{"time":"2025-03-16T12:34:59.0926365+05:30","level":"INFO","msg":"handler: started","stream_id":"590rilhi"}
+{"time":"2025-03-16T12:34:59.0926365+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"590rilhi"}
+{"time":"2025-03-16T12:34:59.4366259+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:35:29.6190918+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:35:29.9514217+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:35:30.6335836+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-590rilhi-confusion_matrix_table","runtime_seconds":1.0455152},{"desc":"uploading output.log","runtime_seconds":0.3631897},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3631897,"progress":"1.0KB/1.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0668684,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T12:35:32.6478098+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:35:33.9377319+05:30","level":"INFO","msg":"stream: closing","id":"590rilhi"}
+{"time":"2025-03-16T12:35:33.9377319+05:30","level":"INFO","msg":"handler: closed","stream_id":"590rilhi"}
+{"time":"2025-03-16T12:35:33.9377319+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"590rilhi"}
+{"time":"2025-03-16T12:35:33.9377319+05:30","level":"INFO","msg":"sender: closed","stream_id":"590rilhi"}
+{"time":"2025-03-16T12:35:33.9385246+05:30","level":"INFO","msg":"stream: closed","id":"590rilhi"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:51:34.9098779+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_085134-y7ninawp\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:51:36.2342556+05:30","level":"INFO","msg":"created new stream","id":"y7ninawp"}
+{"time":"2025-03-10T08:51:36.2342556+05:30","level":"INFO","msg":"stream: started","id":"y7ninawp"}
+{"time":"2025-03-10T08:51:36.2342556+05:30","level":"INFO","msg":"handler: started","stream_id":"y7ninawp"}
+{"time":"2025-03-10T08:51:36.2342556+05:30","level":"INFO","msg":"sender: started","stream_id":"y7ninawp"}
+{"time":"2025-03-10T08:51:36.234884+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y7ninawp"}
+{"time":"2025-03-10T08:51:36.620988+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:51:44.7790716+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:51:44.7797131+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:51:45.7827443+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-y7ninawp-confusion_matrix_table","runtime_seconds":1.0401797},{"desc":"uploading media\\table\\confusion_matrix_table_5_74e43e872e4e5e057155.table.json","runtime_seconds":0.6998456,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6998456,"progress":"870B/870B"},{"desc":"uploading config.yaml","runtime_seconds":0.3886277,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:51:47.5754802+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:51:48.9358886+05:30","level":"INFO","msg":"stream: closing","id":"y7ninawp"}
+{"time":"2025-03-10T08:51:48.9358886+05:30","level":"INFO","msg":"handler: closed","stream_id":"y7ninawp"}
+{"time":"2025-03-10T08:51:48.9358886+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y7ninawp"}
+{"time":"2025-03-10T08:51:48.9358886+05:30","level":"INFO","msg":"sender: closed","stream_id":"y7ninawp"}
+{"time":"2025-03-10T08:51:48.9364008+05:30","level":"INFO","msg":"stream: closed","id":"y7ninawp"}

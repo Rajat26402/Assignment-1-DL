@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:49:07.2651912+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_104907-zr5mk1z1\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:49:07.9859123+05:30","level":"INFO","msg":"created new stream","id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:07.9859123+05:30","level":"INFO","msg":"stream: started","id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:07.9859123+05:30","level":"INFO","msg":"handler: started","stream_id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:07.9859123+05:30","level":"INFO","msg":"sender: started","stream_id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:07.9859123+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:08.3449488+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:49:34.8577549+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:49:34.8584221+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:49:35.8651816+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-zr5mk1z1-confusion_matrix_table","runtime_seconds":1.0466577},{"desc":"uploading media\\table\\confusion_matrix_table_5_78d165d6b28c375a8835.table.json","runtime_seconds":0.7185437,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7185437},{"desc":"uploading config.yaml","runtime_seconds":0.3751144,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T10:49:37.9313296+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:49:39.2925704+05:30","level":"INFO","msg":"stream: closing","id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:39.2925704+05:30","level":"INFO","msg":"handler: closed","stream_id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:39.2925704+05:30","level":"INFO","msg":"sender: closed","stream_id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:39.2925704+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zr5mk1z1"}
+{"time":"2025-03-10T10:49:39.2938692+05:30","level":"INFO","msg":"stream: closed","id":"zr5mk1z1"}

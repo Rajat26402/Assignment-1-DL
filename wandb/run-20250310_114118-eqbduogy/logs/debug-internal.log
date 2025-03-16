@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:41:18.9795072+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_114118-eqbduogy\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:41:19.6988954+05:30","level":"INFO","msg":"created new stream","id":"eqbduogy"}
+{"time":"2025-03-10T11:41:19.6994244+05:30","level":"INFO","msg":"handler: started","stream_id":"eqbduogy"}
+{"time":"2025-03-10T11:41:19.6994244+05:30","level":"INFO","msg":"stream: started","id":"eqbduogy"}
+{"time":"2025-03-10T11:41:19.6994244+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eqbduogy"}
+{"time":"2025-03-10T11:41:19.6994244+05:30","level":"INFO","msg":"sender: started","stream_id":"eqbduogy"}
+{"time":"2025-03-10T11:41:20.1595773+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:41:27.8563461+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:41:27.8573736+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:41:28.8693577+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-eqbduogy-confusion_matrix_table","runtime_seconds":1.0513378},{"desc":"uploading config.yaml","runtime_seconds":0.3317669,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-10T11:41:31.9579536+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:41:33.3142594+05:30","level":"INFO","msg":"stream: closing","id":"eqbduogy"}
+{"time":"2025-03-10T11:41:33.3142594+05:30","level":"INFO","msg":"handler: closed","stream_id":"eqbduogy"}
+{"time":"2025-03-10T11:41:33.3142594+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eqbduogy"}
+{"time":"2025-03-10T11:41:33.3142594+05:30","level":"INFO","msg":"sender: closed","stream_id":"eqbduogy"}
+{"time":"2025-03-10T11:41:33.3148436+05:30","level":"INFO","msg":"stream: closed","id":"eqbduogy"}

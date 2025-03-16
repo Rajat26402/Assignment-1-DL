@@ -1,0 +1,32 @@
+2025-03-16 19:48:29,189 INFO    Thread-40 (_run_job):32372 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-16 19:48:29,189 INFO    Thread-40 (_run_job):32372 [wandb_setup.py:_flush():67] Configure stats pid to 32372
+2025-03-16 19:48:29,189 INFO    Thread-40 (_run_job):32372 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-16 19:48:29,189 INFO    Thread-40 (_run_job):32372 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-16 19:48:29,189 INFO    Thread-40 (_run_job):32372 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-16 19:48:29,189 INFO    Thread-40 (_run_job):32372 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250316_194829-er4v68t0\logs\debug.log
+2025-03-16 19:48:29,190 INFO    Thread-40 (_run_job):32372 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250316_194829-er4v68t0\logs\debug-internal.log
+2025-03-16 19:48:29,190 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():761] calling init triggers
+2025-03-16 19:48:29,190 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-16 19:48:29,190 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():784] starting backend
+2025-03-16 19:48:29,190 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():788] sending inform_init request
+2025-03-16 19:48:29,191 INFO    Thread-40 (_run_job):32372 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-16 19:48:29,193 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():803] backend started and connected
+2025-03-16 19:48:29,194 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+2025-03-16 19:48:29,195 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():896] updated telemetry
+2025-03-16 19:48:29,245 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-16 19:48:30,283 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():995] starting run threads in backend
+2025-03-16 19:48:30,559 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-16 19:48:30,560 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-16 19:48:30,560 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-16 19:48:30,560 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-16 19:48:30,561 INFO    Thread-40 (_run_job):32372 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-16 19:48:44,417 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2025-03-16 19:48:44,761 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_finish():2112] finishing run da24m014-iit-madras/DLA1/er4v68t0
+2025-03-16 19:48:44,762 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-16 19:48:44,762 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_restore():2324] restore
+2025-03-16 19:48:44,762 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_restore():2330] restore done
+2025-03-16 19:48:50,079 INFO    MsgRouterThr:32372 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-16 19:48:50,079 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-16 19:48:50,080 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-16 19:48:50,080 INFO    Thread-40 (_run_job):32372 [wandb_run.py:_footer_sync_info():3919] logging synced files

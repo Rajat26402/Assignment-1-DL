@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:50:52.8564594+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_105052-3fks3b5y\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:50:53.5838551+05:30","level":"INFO","msg":"created new stream","id":"3fks3b5y"}
+{"time":"2025-03-10T10:50:53.5838551+05:30","level":"INFO","msg":"stream: started","id":"3fks3b5y"}
+{"time":"2025-03-10T10:50:53.5838551+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3fks3b5y"}
+{"time":"2025-03-10T10:50:53.5838551+05:30","level":"INFO","msg":"handler: started","stream_id":"3fks3b5y"}
+{"time":"2025-03-10T10:50:53.5844324+05:30","level":"INFO","msg":"sender: started","stream_id":"3fks3b5y"}
+{"time":"2025-03-10T10:50:53.9902762+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:51:09.4235065+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:51:09.4242125+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:51:10.4299957+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-3fks3b5y-confusion_matrix_table","runtime_seconds":0.8587626},{"desc":"uploading history steps 0-5, summary","runtime_seconds":0.7108243},{"desc":"uploading config.yaml","runtime_seconds":0.2070733,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-10T10:51:12.2706066+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:51:13.6034047+05:30","level":"INFO","msg":"stream: closing","id":"3fks3b5y"}
+{"time":"2025-03-10T10:51:13.6034047+05:30","level":"INFO","msg":"handler: closed","stream_id":"3fks3b5y"}
+{"time":"2025-03-10T10:51:13.6034047+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3fks3b5y"}
+{"time":"2025-03-10T10:51:13.6034047+05:30","level":"INFO","msg":"sender: closed","stream_id":"3fks3b5y"}
+{"time":"2025-03-10T10:51:13.6034047+05:30","level":"INFO","msg":"stream: closed","id":"3fks3b5y"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:10:25.1169048+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_081025-heix473u\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:10:25.8395697+05:30","level":"INFO","msg":"created new stream","id":"heix473u"}
+{"time":"2025-03-10T08:10:25.8395697+05:30","level":"INFO","msg":"stream: started","id":"heix473u"}
+{"time":"2025-03-10T08:10:25.8395697+05:30","level":"INFO","msg":"handler: started","stream_id":"heix473u"}
+{"time":"2025-03-10T08:10:25.8401558+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"heix473u"}
+{"time":"2025-03-10T08:10:25.8395697+05:30","level":"INFO","msg":"sender: started","stream_id":"heix473u"}
+{"time":"2025-03-10T08:10:26.1918931+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:10:51.7166707+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:10:51.7176427+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:10:52.7333045+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-heix473u-ConfusionMatrixvalidationepoch9_table","runtime_seconds":1.8462123},{"desc":"uploading artifact run-heix473u-FinalConfusionMatrixvalidationepoch10_table","runtime_seconds":1.4596522,"subtasks":[{"desc":"Final Confusion Matrix (validation, epoch 10)_table.table.json","runtime_seconds":0.3632773,"progress":"3.3KB/3.3KB"}]},{"desc":"uploading artifact run-heix473u-FinalConfusionMatrixtestepoch10_table","runtime_seconds":1.0600131},{"desc":"uploading media\\table\\Final Confusion Matrix (test, epoch 10)_table_22_7cf026db29a26f478b67.table.json","runtime_seconds":0.7369227,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4188906,"progress":"17.0KB/17.0KB"}],"total_operations":5}}
+{"time":"2025-03-10T08:10:55.0750771+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:10:56.4336847+05:30","level":"INFO","msg":"stream: closing","id":"heix473u"}
+{"time":"2025-03-10T08:10:56.4336847+05:30","level":"INFO","msg":"handler: closed","stream_id":"heix473u"}
+{"time":"2025-03-10T08:10:56.4336847+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"heix473u"}
+{"time":"2025-03-10T08:10:56.4336847+05:30","level":"INFO","msg":"sender: closed","stream_id":"heix473u"}
+{"time":"2025-03-10T08:10:56.4342736+05:30","level":"INFO","msg":"stream: closed","id":"heix473u"}

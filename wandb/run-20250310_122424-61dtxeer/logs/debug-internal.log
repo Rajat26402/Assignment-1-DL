@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:24:24.1296398+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_122424-61dtxeer\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:24:24.8483462+05:30","level":"INFO","msg":"created new stream","id":"61dtxeer"}
+{"time":"2025-03-10T12:24:24.8483462+05:30","level":"INFO","msg":"stream: started","id":"61dtxeer"}
+{"time":"2025-03-10T12:24:24.8488947+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"61dtxeer"}
+{"time":"2025-03-10T12:24:24.8488947+05:30","level":"INFO","msg":"handler: started","stream_id":"61dtxeer"}
+{"time":"2025-03-10T12:24:24.8488947+05:30","level":"INFO","msg":"sender: started","stream_id":"61dtxeer"}
+{"time":"2025-03-10T12:24:25.1963502+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:24:49.237928+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:24:49.238518+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:24:50.2557058+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-61dtxeer-confusion_matrix_table","runtime_seconds":1.0664136},{"desc":"uploading media\\table\\confusion_matrix_table_5_a5373a716d308b679075.table.json","runtime_seconds":0.7237151,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4146168,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-10T12:24:51.8305154+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:24:53.2450187+05:30","level":"INFO","msg":"stream: closing","id":"61dtxeer"}
+{"time":"2025-03-10T12:24:53.2450187+05:30","level":"INFO","msg":"handler: closed","stream_id":"61dtxeer"}
+{"time":"2025-03-10T12:24:53.2450187+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"61dtxeer"}
+{"time":"2025-03-10T12:24:53.2456761+05:30","level":"INFO","msg":"sender: closed","stream_id":"61dtxeer"}
+{"time":"2025-03-10T12:24:53.2456761+05:30","level":"INFO","msg":"stream: closed","id":"61dtxeer"}

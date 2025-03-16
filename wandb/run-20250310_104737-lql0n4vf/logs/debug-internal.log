@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:47:37.3400557+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_104737-lql0n4vf\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:47:38.0836091+05:30","level":"INFO","msg":"created new stream","id":"lql0n4vf"}
+{"time":"2025-03-10T10:47:38.0836091+05:30","level":"INFO","msg":"stream: started","id":"lql0n4vf"}
+{"time":"2025-03-10T10:47:38.0836091+05:30","level":"INFO","msg":"handler: started","stream_id":"lql0n4vf"}
+{"time":"2025-03-10T10:47:38.0836091+05:30","level":"INFO","msg":"sender: started","stream_id":"lql0n4vf"}
+{"time":"2025-03-10T10:47:38.0836091+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lql0n4vf"}
+{"time":"2025-03-10T10:47:38.4793425+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:48:20.5215954+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:48:20.5221002+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:48:21.5382284+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-lql0n4vf-confusion_matrix_table","runtime_seconds":1.0796344},{"desc":"uploading config.yaml","runtime_seconds":0.2918638,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-10T10:48:23.1462638+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:48:24.5282865+05:30","level":"INFO","msg":"stream: closing","id":"lql0n4vf"}
+{"time":"2025-03-10T10:48:24.5282865+05:30","level":"INFO","msg":"handler: closed","stream_id":"lql0n4vf"}
+{"time":"2025-03-10T10:48:24.5282865+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lql0n4vf"}
+{"time":"2025-03-10T10:48:24.5282865+05:30","level":"INFO","msg":"sender: closed","stream_id":"lql0n4vf"}
+{"time":"2025-03-10T10:48:24.5287931+05:30","level":"INFO","msg":"stream: closed","id":"lql0n4vf"}

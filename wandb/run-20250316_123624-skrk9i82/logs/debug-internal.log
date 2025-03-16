@@ -1,0 +1,16 @@
+{"time":"2025-03-16T12:36:24.079921+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_123624-skrk9i82\\logs\\debug-core.log"}
+{"time":"2025-03-16T12:36:24.8003013+05:30","level":"INFO","msg":"created new stream","id":"skrk9i82"}
+{"time":"2025-03-16T12:36:24.8003013+05:30","level":"INFO","msg":"stream: started","id":"skrk9i82"}
+{"time":"2025-03-16T12:36:24.8003013+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"skrk9i82"}
+{"time":"2025-03-16T12:36:24.8008453+05:30","level":"INFO","msg":"sender: started","stream_id":"skrk9i82"}
+{"time":"2025-03-16T12:36:24.8008453+05:30","level":"INFO","msg":"handler: started","stream_id":"skrk9i82"}
+{"time":"2025-03-16T12:36:25.2103378+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:36:35.3964505+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:36:35.7251726+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:36:36.4048319+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-skrk9i82-confusion_matrix_table","runtime_seconds":1.042815},{"desc":"uploading output.log","runtime_seconds":0.3707454},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3707454,"progress":"1.0KB/1.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0845817,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T12:36:38.0761871+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:36:39.4116381+05:30","level":"INFO","msg":"stream: closing","id":"skrk9i82"}
+{"time":"2025-03-16T12:36:39.4116381+05:30","level":"INFO","msg":"handler: closed","stream_id":"skrk9i82"}
+{"time":"2025-03-16T12:36:39.4116381+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"skrk9i82"}
+{"time":"2025-03-16T12:36:39.4116381+05:30","level":"INFO","msg":"sender: closed","stream_id":"skrk9i82"}
+{"time":"2025-03-16T12:36:39.4116381+05:30","level":"INFO","msg":"stream: closed","id":"skrk9i82"}

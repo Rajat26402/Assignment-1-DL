@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:09:53.3491099+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_080953-f3ble322\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:09:54.0745455+05:30","level":"INFO","msg":"created new stream","id":"f3ble322"}
+{"time":"2025-03-10T08:09:54.0745455+05:30","level":"INFO","msg":"stream: started","id":"f3ble322"}
+{"time":"2025-03-10T08:09:54.0745455+05:30","level":"INFO","msg":"handler: started","stream_id":"f3ble322"}
+{"time":"2025-03-10T08:09:54.0745455+05:30","level":"INFO","msg":"sender: started","stream_id":"f3ble322"}
+{"time":"2025-03-10T08:09:54.0745455+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"f3ble322"}
+{"time":"2025-03-10T08:09:54.477043+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:10:17.1000333+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:10:17.1005396+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:10:18.1138131+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-f3ble322-ConfusionMatrixvalidationepoch9_table","runtime_seconds":1.8645909},{"desc":"uploading artifact run-f3ble322-FinalConfusionMatrixvalidationepoch10_table","runtime_seconds":1.4777611,"subtasks":[{"desc":"Final Confusion Matrix (validation, epoch 10)_table.table.json","runtime_seconds":0.2332425,"progress":"3.3KB/3.3KB"}]},{"desc":"uploading artifact run-f3ble322-FinalConfusionMatrixtestepoch10_table","runtime_seconds":1.0678336},{"desc":"uploading config.yaml","runtime_seconds":0.3578532,"progress":"17.0KB/17.0KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:10:20.7111598+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:10:22.0621114+05:30","level":"INFO","msg":"stream: closing","id":"f3ble322"}
+{"time":"2025-03-10T08:10:22.0621114+05:30","level":"INFO","msg":"handler: closed","stream_id":"f3ble322"}
+{"time":"2025-03-10T08:10:22.0621114+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"f3ble322"}
+{"time":"2025-03-10T08:10:22.0626169+05:30","level":"INFO","msg":"sender: closed","stream_id":"f3ble322"}
+{"time":"2025-03-10T08:10:22.0632555+05:30","level":"INFO","msg":"stream: closed","id":"f3ble322"}

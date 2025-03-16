@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:27:38.7083714+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_132738-oo8bt1ez\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:27:39.4434114+05:30","level":"INFO","msg":"created new stream","id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:39.4434114+05:30","level":"INFO","msg":"stream: started","id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:39.4434114+05:30","level":"INFO","msg":"sender: started","stream_id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:39.4434114+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:39.4434114+05:30","level":"INFO","msg":"handler: started","stream_id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:39.8122808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:27:46.0386212+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:27:46.0396556+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:27:47.0420287+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-oo8bt1ez-confusion_matrix_table","runtime_seconds":1.0452355},{"desc":"uploading media\\table\\confusion_matrix_table_5_f14dee67ccc7572f4f3f.table.json","runtime_seconds":0.7159172,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7159172,"progress":"1019B/1019B"},{"desc":"uploading config.yaml","runtime_seconds":0.4096841,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T13:27:48.5814206+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:27:49.9195208+05:30","level":"INFO","msg":"stream: closing","id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:49.9195208+05:30","level":"INFO","msg":"handler: closed","stream_id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:49.9195208+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:49.9195208+05:30","level":"INFO","msg":"sender: closed","stream_id":"oo8bt1ez"}
+{"time":"2025-03-16T13:27:49.9200249+05:30","level":"INFO","msg":"stream: closed","id":"oo8bt1ez"}

@@ -1,0 +1,10 @@
+{"time":"2025-03-10T08:31:19.4906586+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_083119-d1ctt9zq\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:31:20.2248578+05:30","level":"INFO","msg":"created new stream","id":"d1ctt9zq"}
+{"time":"2025-03-10T08:31:20.2254627+05:30","level":"INFO","msg":"stream: started","id":"d1ctt9zq"}
+{"time":"2025-03-10T08:31:20.2254627+05:30","level":"INFO","msg":"sender: started","stream_id":"d1ctt9zq"}
+{"time":"2025-03-10T08:31:20.2254627+05:30","level":"INFO","msg":"handler: started","stream_id":"d1ctt9zq"}
+{"time":"2025-03-10T08:31:20.2254627+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"d1ctt9zq"}
+{"time":"2025-03-10T08:31:20.5914489+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:31:42.709847+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:31:42.7111404+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:31:43.7185171+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-d1ctt9zq-confusion_matrix_table","runtime_seconds":1.0527062}],"total_operations":1}}

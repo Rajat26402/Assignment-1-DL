@@ -1,0 +1,12 @@
+Training network with 2 hidden layers,tanh activation, adam optimizer
+Epoch 1/10 - Loss: 0.5021 - Acc: 0.8256 - Val Loss: 0.4279 - Val Acc: 0.8473
+Epoch 2/10 - Loss: 0.3996 - Acc: 0.8634 - Val Loss: 0.3771 - Val Acc: 0.8708
+Epoch 3/10 - Loss: 0.3719 - Acc: 0.8759 - Val Loss: 0.3664 - Val Acc: 0.8783
+Epoch 4/10 - Loss: 0.3577 - Acc: 0.8810 - Val Loss: 0.3996 - Val Acc: 0.8643
+Epoch 5/10 - Loss: 0.3461 - Acc: 0.8864 - Val Loss: 0.3658 - Val Acc: 0.8802
+Epoch 6/10 - Loss: 0.3363 - Acc: 0.8909 - Val Loss: 0.3778 - Val Acc: 0.8772
+Epoch 7/10 - Loss: 0.3305 - Acc: 0.8951 - Val Loss: 0.3710 - Val Acc: 0.8867
+Epoch 8/10 - Loss: 0.3211 - Acc: 0.8983 - Val Loss: 0.3742 - Val Acc: 0.8842
+Epoch 9/10 - Loss: 0.3208 - Acc: 0.8991 - Val Loss: 0.3739 - Val Acc: 0.8840
+Epoch 10/10 - Loss: 0.3136 - Acc: 0.9023 - Val Loss: 0.3793 - Val Acc: 0.8800
+Test accuracy: 87.49%

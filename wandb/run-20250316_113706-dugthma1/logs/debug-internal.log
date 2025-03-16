@@ -1,0 +1,16 @@
+{"time":"2025-03-16T11:37:06.2743736+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_113706-dugthma1\\logs\\debug-core.log"}
+{"time":"2025-03-16T11:37:06.9931378+05:30","level":"INFO","msg":"created new stream","id":"dugthma1"}
+{"time":"2025-03-16T11:37:06.9931378+05:30","level":"INFO","msg":"stream: started","id":"dugthma1"}
+{"time":"2025-03-16T11:37:06.9931378+05:30","level":"INFO","msg":"handler: started","stream_id":"dugthma1"}
+{"time":"2025-03-16T11:37:06.9931378+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dugthma1"}
+{"time":"2025-03-16T11:37:06.9931378+05:30","level":"INFO","msg":"sender: started","stream_id":"dugthma1"}
+{"time":"2025-03-16T11:37:07.3148374+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:38:57.8711536+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T11:38:57.8718147+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T11:38:58.8751344+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-dugthma1-confusion_matrix_table","runtime_seconds":1.0449035},{"desc":"uploading config.yaml","runtime_seconds":0.3942037,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-16T11:39:00.4298961+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T11:39:01.7895938+05:30","level":"INFO","msg":"stream: closing","id":"dugthma1"}
+{"time":"2025-03-16T11:39:01.7895938+05:30","level":"INFO","msg":"handler: closed","stream_id":"dugthma1"}
+{"time":"2025-03-16T11:39:01.7895938+05:30","level":"INFO","msg":"sender: closed","stream_id":"dugthma1"}
+{"time":"2025-03-16T11:39:01.7895938+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dugthma1"}
+{"time":"2025-03-16T11:39:01.7900979+05:30","level":"INFO","msg":"stream: closed","id":"dugthma1"}

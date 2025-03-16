@@ -1,0 +1,23 @@
+2025-03-16 19:44:06,997 INFO    Thread-85 (_run_job):39864 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-16 19:44:06,997 INFO    Thread-85 (_run_job):39864 [wandb_setup.py:_flush():67] Configure stats pid to 39864
+2025-03-16 19:44:06,997 INFO    Thread-85 (_run_job):39864 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Rajat\.config\wandb\settings
+2025-03-16 19:44:06,997 INFO    Thread-85 (_run_job):39864 [wandb_setup.py:_flush():67] Loading settings from d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\settings
+2025-03-16 19:44:06,997 INFO    Thread-85 (_run_job):39864 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-16 19:44:06,998 INFO    Thread-85 (_run_job):39864 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250316_194406-yd8tzqyk\logs\debug.log
+2025-03-16 19:44:06,998 INFO    Thread-85 (_run_job):39864 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\IIT Madras\SEM 2\Deep Learning\Assignment-1-DL\wandb\run-20250316_194406-yd8tzqyk\logs\debug-internal.log
+2025-03-16 19:44:06,998 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():761] calling init triggers
+2025-03-16 19:44:06,998 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 64, 'learning_rate': 0.001, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-16 19:44:06,998 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():784] starting backend
+2025-03-16 19:44:06,998 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():788] sending inform_init request
+2025-03-16 19:44:07,001 INFO    Thread-85 (_run_job):39864 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-16 19:44:07,003 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():803] backend started and connected
+2025-03-16 19:44:07,004 INFO    Thread-85 (_run_job):39864 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 64, 'learning_rate': 0.001, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+2025-03-16 19:44:07,006 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():896] updated telemetry
+2025-03-16 19:44:07,061 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-16 19:44:08,708 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():995] starting run threads in backend
+2025-03-16 19:44:09,058 INFO    Thread-85 (_run_job):39864 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-16 19:44:09,058 INFO    Thread-85 (_run_job):39864 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-16 19:44:09,058 INFO    Thread-85 (_run_job):39864 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-16 19:44:09,058 INFO    Thread-85 (_run_job):39864 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-16 19:44:09,059 INFO    Thread-85 (_run_job):39864 [wandb_init.py:init():1037] run started, returning control to user process

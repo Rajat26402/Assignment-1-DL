@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:21:43.3151002+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_122143-nrm2tigi\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:21:44.6385536+05:30","level":"INFO","msg":"created new stream","id":"nrm2tigi"}
+{"time":"2025-03-10T12:21:44.6385536+05:30","level":"INFO","msg":"stream: started","id":"nrm2tigi"}
+{"time":"2025-03-10T12:21:44.6385536+05:30","level":"INFO","msg":"handler: started","stream_id":"nrm2tigi"}
+{"time":"2025-03-10T12:21:44.6392024+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nrm2tigi"}
+{"time":"2025-03-10T12:21:44.6385536+05:30","level":"INFO","msg":"sender: started","stream_id":"nrm2tigi"}
+{"time":"2025-03-10T12:21:44.970095+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:22:16.5240779+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:22:16.5249246+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:22:17.5379742+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-nrm2tigi-confusion_matrix_table","runtime_seconds":1.0534416},{"desc":"uploading media\\table\\confusion_matrix_table_5_b5c2e9664796993d2a47.table.json","runtime_seconds":0.7286209,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7286209,"progress":"1023B/1023B"},{"desc":"uploading config.yaml","runtime_seconds":0.4111989,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T12:22:19.697729+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:22:21.0518999+05:30","level":"INFO","msg":"stream: closing","id":"nrm2tigi"}
+{"time":"2025-03-10T12:22:21.0518999+05:30","level":"INFO","msg":"handler: closed","stream_id":"nrm2tigi"}
+{"time":"2025-03-10T12:22:21.0518999+05:30","level":"INFO","msg":"sender: closed","stream_id":"nrm2tigi"}
+{"time":"2025-03-10T12:22:21.0518999+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nrm2tigi"}
+{"time":"2025-03-10T12:22:21.0524055+05:30","level":"INFO","msg":"stream: closed","id":"nrm2tigi"}

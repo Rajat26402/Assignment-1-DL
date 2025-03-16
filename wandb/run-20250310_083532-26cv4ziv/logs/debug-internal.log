@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:35:32.4288601+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_083532-26cv4ziv\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:35:33.7531146+05:30","level":"INFO","msg":"created new stream","id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:33.7531146+05:30","level":"INFO","msg":"stream: started","id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:33.7531146+05:30","level":"INFO","msg":"handler: started","stream_id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:33.7537992+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:33.7537992+05:30","level":"INFO","msg":"sender: started","stream_id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:34.0910084+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:35:49.339241+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:35:49.3404609+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:35:50.3591105+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-26cv4ziv-confusion_matrix_table","runtime_seconds":3.3694586},{"desc":"uploading output.log","runtime_seconds":0.3189639},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3189639,"progress":"868B/868B"},{"desc":"uploading config.yaml","runtime_seconds":0.0317371,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T08:35:52.1182564+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:35:53.4423339+05:30","level":"INFO","msg":"stream: closing","id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:53.4423339+05:30","level":"INFO","msg":"handler: closed","stream_id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:53.4423339+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:53.4438496+05:30","level":"INFO","msg":"sender: closed","stream_id":"26cv4ziv"}
+{"time":"2025-03-10T08:35:53.4438496+05:30","level":"INFO","msg":"stream: closed","id":"26cv4ziv"}

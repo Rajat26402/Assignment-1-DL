@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:32:37.8923495+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_133237-o007rf6o\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:32:38.6183158+05:30","level":"INFO","msg":"created new stream","id":"o007rf6o"}
+{"time":"2025-03-16T13:32:38.6183158+05:30","level":"INFO","msg":"stream: started","id":"o007rf6o"}
+{"time":"2025-03-16T13:32:38.6183158+05:30","level":"INFO","msg":"handler: started","stream_id":"o007rf6o"}
+{"time":"2025-03-16T13:32:38.6188474+05:30","level":"INFO","msg":"sender: started","stream_id":"o007rf6o"}
+{"time":"2025-03-16T13:32:38.6188474+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"o007rf6o"}
+{"time":"2025-03-16T13:32:38.9442866+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:33:25.6351833+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:33:25.637429+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:33:26.6691557+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-o007rf6o-confusion_matrix_table","runtime_seconds":1.035668},{"desc":"uploading output.log","runtime_seconds":0.7105144},{"desc":"uploading config.yaml","runtime_seconds":0.2441876,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-16T13:33:29.3868968+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:33:30.8058701+05:30","level":"INFO","msg":"stream: closing","id":"o007rf6o"}
+{"time":"2025-03-16T13:33:30.8207572+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"o007rf6o"}
+{"time":"2025-03-16T13:33:30.8211463+05:30","level":"INFO","msg":"handler: closed","stream_id":"o007rf6o"}
+{"time":"2025-03-16T13:33:30.8211463+05:30","level":"INFO","msg":"sender: closed","stream_id":"o007rf6o"}
+{"time":"2025-03-16T13:33:30.8211463+05:30","level":"INFO","msg":"stream: closed","id":"o007rf6o"}

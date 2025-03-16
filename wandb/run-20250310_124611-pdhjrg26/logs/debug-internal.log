@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:46:11.2634368+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_124611-pdhjrg26\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:46:11.9818545+05:30","level":"INFO","msg":"created new stream","id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:11.9818545+05:30","level":"INFO","msg":"stream: started","id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:11.9818545+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:11.9818545+05:30","level":"INFO","msg":"sender: started","stream_id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:11.9818545+05:30","level":"INFO","msg":"handler: started","stream_id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:12.325116+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:46:22.3622423+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:46:22.8304054+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:46:23.3651568+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-pdhjrg26-confusion_matrix_table","runtime_seconds":1.0419187},{"desc":"uploading output.log","runtime_seconds":0.2225949},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2225949,"progress":"1.0KB/1.0KB"}],"total_operations":3}}
+{"time":"2025-03-10T12:46:24.8736916+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:46:26.2265679+05:30","level":"INFO","msg":"stream: closing","id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:26.2265679+05:30","level":"INFO","msg":"handler: closed","stream_id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:26.2265679+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:26.2265679+05:30","level":"INFO","msg":"sender: closed","stream_id":"pdhjrg26"}
+{"time":"2025-03-10T12:46:26.2270837+05:30","level":"INFO","msg":"stream: closed","id":"pdhjrg26"}

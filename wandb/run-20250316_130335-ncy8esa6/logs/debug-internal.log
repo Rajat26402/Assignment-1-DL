@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:03:35.3339878+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_130335-ncy8esa6\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:03:36.0559098+05:30","level":"INFO","msg":"created new stream","id":"ncy8esa6"}
+{"time":"2025-03-16T13:03:36.0569159+05:30","level":"INFO","msg":"stream: started","id":"ncy8esa6"}
+{"time":"2025-03-16T13:03:36.0569159+05:30","level":"INFO","msg":"handler: started","stream_id":"ncy8esa6"}
+{"time":"2025-03-16T13:03:36.0569159+05:30","level":"INFO","msg":"sender: started","stream_id":"ncy8esa6"}
+{"time":"2025-03-16T13:03:36.0569159+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ncy8esa6"}
+{"time":"2025-03-16T13:03:36.4292084+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:04:01.4994032+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:04:01.5001091+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:04:02.5019443+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ncy8esa6-confusion_matrix_table","runtime_seconds":1.0437067},{"desc":"uploading output.log","runtime_seconds":0.7235851},{"desc":"uploading media\\table\\confusion_matrix_table_5_1d311b499e4a2a8c40a2.table.json","runtime_seconds":0.7235851,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3982822,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-16T13:04:04.1210008+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:04:05.4666896+05:30","level":"INFO","msg":"stream: closing","id":"ncy8esa6"}
+{"time":"2025-03-16T13:04:05.4666896+05:30","level":"INFO","msg":"handler: closed","stream_id":"ncy8esa6"}
+{"time":"2025-03-16T13:04:05.4666896+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ncy8esa6"}
+{"time":"2025-03-16T13:04:05.4671952+05:30","level":"INFO","msg":"sender: closed","stream_id":"ncy8esa6"}
+{"time":"2025-03-16T13:04:05.4671952+05:30","level":"INFO","msg":"stream: closed","id":"ncy8esa6"}

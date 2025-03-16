@@ -1,0 +1,7 @@
+{"time":"2025-03-10T09:47:11.3467927+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_094711-h4gcgkzx\\logs\\debug-core.log"}
+{"time":"2025-03-10T09:47:12.0826535+05:30","level":"INFO","msg":"created new stream","id":"h4gcgkzx"}
+{"time":"2025-03-10T09:47:12.0826535+05:30","level":"INFO","msg":"stream: started","id":"h4gcgkzx"}
+{"time":"2025-03-10T09:47:12.0826535+05:30","level":"INFO","msg":"sender: started","stream_id":"h4gcgkzx"}
+{"time":"2025-03-10T09:47:12.0826535+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"h4gcgkzx"}
+{"time":"2025-03-10T09:47:12.0826535+05:30","level":"INFO","msg":"handler: started","stream_id":"h4gcgkzx"}
+{"time":"2025-03-10T09:47:12.4146901+05:30","level":"INFO","msg":"Starting system monitor"}

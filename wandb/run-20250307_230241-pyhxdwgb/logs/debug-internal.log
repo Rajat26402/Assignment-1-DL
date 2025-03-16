@@ -1,0 +1,16 @@
+{"time":"2025-03-07T23:02:41.8275444+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_230241-pyhxdwgb\\logs\\debug-core.log"}
+{"time":"2025-03-07T23:02:42.5487631+05:30","level":"INFO","msg":"created new stream","id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:42.5487631+05:30","level":"INFO","msg":"stream: started","id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:42.5487631+05:30","level":"INFO","msg":"handler: started","stream_id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:42.5487631+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:42.5487631+05:30","level":"INFO","msg":"sender: started","stream_id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:42.9599955+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T23:02:55.4491323+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T23:02:55.4496486+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T23:02:56.4644585+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.5710465},{"desc":"uploading config.yaml","runtime_seconds":0.246702,"progress":"859B/859B"}],"total_operations":2}}
+{"time":"2025-03-07T23:02:57.1930524+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T23:02:58.5707611+05:30","level":"INFO","msg":"stream: closing","id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:58.5707611+05:30","level":"INFO","msg":"handler: closed","stream_id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:58.5707611+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:58.5707611+05:30","level":"INFO","msg":"sender: closed","stream_id":"pyhxdwgb"}
+{"time":"2025-03-07T23:02:58.5712677+05:30","level":"INFO","msg":"stream: closed","id":"pyhxdwgb"}

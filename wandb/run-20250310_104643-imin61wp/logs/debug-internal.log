@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:46:43.9690281+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_104643-imin61wp\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:46:44.7103349+05:30","level":"INFO","msg":"created new stream","id":"imin61wp"}
+{"time":"2025-03-10T10:46:44.7103349+05:30","level":"INFO","msg":"stream: started","id":"imin61wp"}
+{"time":"2025-03-10T10:46:44.7103349+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"imin61wp"}
+{"time":"2025-03-10T10:46:44.7103349+05:30","level":"INFO","msg":"handler: started","stream_id":"imin61wp"}
+{"time":"2025-03-10T10:46:44.7103349+05:30","level":"INFO","msg":"sender: started","stream_id":"imin61wp"}
+{"time":"2025-03-10T10:46:45.0607669+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:47:05.3392975+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:47:05.5949272+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:47:06.3571006+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-imin61wp-confusion_matrix_table","runtime_seconds":1.0489995},{"desc":"uploading output.log","runtime_seconds":0.4499742},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4499742,"progress":"1014B/1014B"},{"desc":"uploading config.yaml","runtime_seconds":0.1810705,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T10:47:09.2369577+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:47:10.5717103+05:30","level":"INFO","msg":"stream: closing","id":"imin61wp"}
+{"time":"2025-03-10T10:47:10.5717103+05:30","level":"INFO","msg":"handler: closed","stream_id":"imin61wp"}
+{"time":"2025-03-10T10:47:10.5717103+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"imin61wp"}
+{"time":"2025-03-10T10:47:10.5717103+05:30","level":"INFO","msg":"sender: closed","stream_id":"imin61wp"}
+{"time":"2025-03-10T10:47:10.5722637+05:30","level":"INFO","msg":"stream: closed","id":"imin61wp"}

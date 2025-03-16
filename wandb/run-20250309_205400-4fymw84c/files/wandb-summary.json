@@ -1,0 +1,1 @@
+{"val_accuracy":0.8565,"_wandb":{"runtime":17},"_step":4,"_runtime":17.9699531,"loss":0.3634435300419895,"_timestamp":1.7415338588753824e+09,"accuracy":0.8750555555555556,"epoch":5,"val_loss":0.4268595906706781}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:28:26.4965539+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_132826-paaenazm\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:28:27.8605789+05:30","level":"INFO","msg":"created new stream","id":"paaenazm"}
+{"time":"2025-03-16T13:28:27.8605789+05:30","level":"INFO","msg":"stream: started","id":"paaenazm"}
+{"time":"2025-03-16T13:28:27.8605789+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"paaenazm"}
+{"time":"2025-03-16T13:28:27.8605789+05:30","level":"INFO","msg":"handler: started","stream_id":"paaenazm"}
+{"time":"2025-03-16T13:28:27.8611206+05:30","level":"INFO","msg":"sender: started","stream_id":"paaenazm"}
+{"time":"2025-03-16T13:28:28.2093732+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:28:34.0313054+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:28:34.0318101+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:28:35.0416164+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-paaenazm-confusion_matrix_table","runtime_seconds":1.0452205},{"desc":"uploading media\\table\\confusion_matrix_table_5_8a1eafd3fa04a309e423.table.json","runtime_seconds":0.7217531,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3508949,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-16T13:28:36.5852733+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:28:37.9271202+05:30","level":"INFO","msg":"stream: closing","id":"paaenazm"}
+{"time":"2025-03-16T13:28:37.9271202+05:30","level":"INFO","msg":"handler: closed","stream_id":"paaenazm"}
+{"time":"2025-03-16T13:28:37.9271202+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"paaenazm"}
+{"time":"2025-03-16T13:28:37.9271202+05:30","level":"INFO","msg":"sender: closed","stream_id":"paaenazm"}
+{"time":"2025-03-16T13:28:37.9271202+05:30","level":"INFO","msg":"stream: closed","id":"paaenazm"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:45:22.7313384+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_214522-j7vvaf3g\\logs\\debug-core.log"}
+{"time":"2025-03-07T21:45:23.4508077+05:30","level":"INFO","msg":"created new stream","id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:23.4514728+05:30","level":"INFO","msg":"stream: started","id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:23.4514728+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:23.4514728+05:30","level":"INFO","msg":"sender: started","stream_id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:23.4514728+05:30","level":"INFO","msg":"handler: started","stream_id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:23.830447+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:45:24.1226931+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:45:24.123361+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:45:25.1352458+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.3293443},{"desc":"uploading output.log","runtime_seconds":0.0030546},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0030546,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-03-07T21:45:25.8116327+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:45:27.1884734+05:30","level":"INFO","msg":"stream: closing","id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:27.1884734+05:30","level":"INFO","msg":"handler: closed","stream_id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:27.1884734+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:27.1884734+05:30","level":"INFO","msg":"sender: closed","stream_id":"j7vvaf3g"}
+{"time":"2025-03-07T21:45:27.1892668+05:30","level":"INFO","msg":"stream: closed","id":"j7vvaf3g"}

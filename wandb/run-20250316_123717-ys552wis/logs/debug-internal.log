@@ -1,0 +1,16 @@
+{"time":"2025-03-16T12:37:17.3720206+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_123717-ys552wis\\logs\\debug-core.log"}
+{"time":"2025-03-16T12:37:18.6956005+05:30","level":"INFO","msg":"created new stream","id":"ys552wis"}
+{"time":"2025-03-16T12:37:18.6956005+05:30","level":"INFO","msg":"stream: started","id":"ys552wis"}
+{"time":"2025-03-16T12:37:18.6956005+05:30","level":"INFO","msg":"handler: started","stream_id":"ys552wis"}
+{"time":"2025-03-16T12:37:18.6962362+05:30","level":"INFO","msg":"sender: started","stream_id":"ys552wis"}
+{"time":"2025-03-16T12:37:18.6962362+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ys552wis"}
+{"time":"2025-03-16T12:37:19.1566673+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:37:34.2483835+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:37:34.2488911+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:37:35.2636608+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ys552wis-confusion_matrix_table","runtime_seconds":1.0481149},{"desc":"uploading history steps 0-5, summary","runtime_seconds":0.3170608}],"total_operations":2}}
+{"time":"2025-03-16T12:37:36.8421045+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:37:38.1326812+05:30","level":"INFO","msg":"stream: closing","id":"ys552wis"}
+{"time":"2025-03-16T12:37:38.1326812+05:30","level":"INFO","msg":"handler: closed","stream_id":"ys552wis"}
+{"time":"2025-03-16T12:37:38.1326812+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ys552wis"}
+{"time":"2025-03-16T12:37:38.1326812+05:30","level":"INFO","msg":"sender: closed","stream_id":"ys552wis"}
+{"time":"2025-03-16T12:37:38.1326812+05:30","level":"INFO","msg":"stream: closed","id":"ys552wis"}

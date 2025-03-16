@@ -1,0 +1,16 @@
+{"time":"2025-03-16T12:39:14.5031824+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_123914-sxjo32i2\\logs\\debug-core.log"}
+{"time":"2025-03-16T12:39:15.8265413+05:30","level":"INFO","msg":"created new stream","id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:15.8265413+05:30","level":"INFO","msg":"stream: started","id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:15.8265413+05:30","level":"INFO","msg":"sender: started","stream_id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:15.8265413+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:15.8265413+05:30","level":"INFO","msg":"handler: started","stream_id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:16.1535646+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:39:37.6158046+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:39:37.6163098+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:39:38.6209659+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-sxjo32i2-confusion_matrix_table","runtime_seconds":1.0535814000000001},{"desc":"uploading config.yaml","runtime_seconds":0.3961638,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-16T12:39:40.358959+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:39:41.6826367+05:30","level":"INFO","msg":"stream: closing","id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:41.6826367+05:30","level":"INFO","msg":"handler: closed","stream_id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:41.6826367+05:30","level":"INFO","msg":"sender: closed","stream_id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:41.6826367+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sxjo32i2"}
+{"time":"2025-03-16T12:39:41.6831463+05:30","level":"INFO","msg":"stream: closed","id":"sxjo32i2"}

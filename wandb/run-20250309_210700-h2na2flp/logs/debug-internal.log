@@ -1,0 +1,16 @@
+{"time":"2025-03-09T21:07:03.9553748+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250309_210700-h2na2flp\\logs\\debug-core.log"}
+{"time":"2025-03-09T21:07:04.674366+05:30","level":"INFO","msg":"created new stream","id":"h2na2flp"}
+{"time":"2025-03-09T21:07:04.674366+05:30","level":"INFO","msg":"stream: started","id":"h2na2flp"}
+{"time":"2025-03-09T21:07:04.674366+05:30","level":"INFO","msg":"sender: started","stream_id":"h2na2flp"}
+{"time":"2025-03-09T21:07:04.674366+05:30","level":"INFO","msg":"handler: started","stream_id":"h2na2flp"}
+{"time":"2025-03-09T21:07:04.674366+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"h2na2flp"}
+{"time":"2025-03-09T21:07:05.0492399+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T21:07:06.5926485+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T21:07:06.5936691+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T21:07:07.6099422+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-h2na2flp-confusion_matrix_table","runtime_seconds":1.5951255},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4373187,"progress":"761B/761B"},{"desc":"uploading output.log","runtime_seconds":0.4373187,"progress":"40B/40B"},{"desc":"uploading config.yaml","runtime_seconds":0.3814727,"progress":"2.0KB/2.0KB"}],"total_operations":4}}
+{"time":"2025-03-09T21:07:08.6563306+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T21:07:10.1049064+05:30","level":"INFO","msg":"stream: closing","id":"h2na2flp"}
+{"time":"2025-03-09T21:07:10.1049064+05:30","level":"INFO","msg":"handler: closed","stream_id":"h2na2flp"}
+{"time":"2025-03-09T21:07:10.1049064+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"h2na2flp"}
+{"time":"2025-03-09T21:07:10.1049064+05:30","level":"INFO","msg":"sender: closed","stream_id":"h2na2flp"}
+{"time":"2025-03-09T21:07:10.1049064+05:30","level":"INFO","msg":"stream: closed","id":"h2na2flp"}

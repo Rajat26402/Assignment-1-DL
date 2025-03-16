@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:50:41.4937396+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_085041-jkem4coy\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:50:42.2269194+05:30","level":"INFO","msg":"created new stream","id":"jkem4coy"}
+{"time":"2025-03-10T08:50:42.2269194+05:30","level":"INFO","msg":"stream: started","id":"jkem4coy"}
+{"time":"2025-03-10T08:50:42.2269194+05:30","level":"INFO","msg":"handler: started","stream_id":"jkem4coy"}
+{"time":"2025-03-10T08:50:42.2269194+05:30","level":"INFO","msg":"sender: started","stream_id":"jkem4coy"}
+{"time":"2025-03-10T08:50:42.2269194+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jkem4coy"}
+{"time":"2025-03-10T08:50:42.6145513+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:51:08.518912+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:51:08.5196779+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:51:09.5344507+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-jkem4coy-confusion_matrix_table","runtime_seconds":1.0523023}],"total_operations":1}}
+{"time":"2025-03-10T08:51:12.2917107+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:51:13.6406325+05:30","level":"INFO","msg":"stream: closing","id":"jkem4coy"}
+{"time":"2025-03-10T08:51:13.6406325+05:30","level":"INFO","msg":"handler: closed","stream_id":"jkem4coy"}
+{"time":"2025-03-10T08:51:13.6406325+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jkem4coy"}
+{"time":"2025-03-10T08:51:13.6406325+05:30","level":"INFO","msg":"sender: closed","stream_id":"jkem4coy"}
+{"time":"2025-03-10T08:51:13.6411532+05:30","level":"INFO","msg":"stream: closed","id":"jkem4coy"}

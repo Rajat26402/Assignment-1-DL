@@ -1,0 +1,16 @@
+{"time":"2025-03-16T12:02:31.5923943+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_120231-wfx168gy\\logs\\debug-core.log"}
+{"time":"2025-03-16T12:02:32.3269079+05:30","level":"INFO","msg":"created new stream","id":"wfx168gy"}
+{"time":"2025-03-16T12:02:32.3269079+05:30","level":"INFO","msg":"stream: started","id":"wfx168gy"}
+{"time":"2025-03-16T12:02:32.3298981+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wfx168gy"}
+{"time":"2025-03-16T12:02:32.3306768+05:30","level":"INFO","msg":"sender: started","stream_id":"wfx168gy"}
+{"time":"2025-03-16T12:02:32.3306768+05:30","level":"INFO","msg":"handler: started","stream_id":"wfx168gy"}
+{"time":"2025-03-16T12:02:32.7043869+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:02:40.1896633+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:02:40.1906945+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:02:41.1955397+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-wfx168gy-confusion_matrix_table","runtime_seconds":1.0302395}],"total_operations":1}}
+{"time":"2025-03-16T12:02:42.8293763+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:02:44.1838875+05:30","level":"INFO","msg":"stream: closing","id":"wfx168gy"}
+{"time":"2025-03-16T12:02:44.1838875+05:30","level":"INFO","msg":"handler: closed","stream_id":"wfx168gy"}
+{"time":"2025-03-16T12:02:44.1838875+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wfx168gy"}
+{"time":"2025-03-16T12:02:44.1843953+05:30","level":"INFO","msg":"sender: closed","stream_id":"wfx168gy"}
+{"time":"2025-03-16T12:02:44.1843953+05:30","level":"INFO","msg":"stream: closed","id":"wfx168gy"}

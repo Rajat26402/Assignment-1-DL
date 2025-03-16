@@ -1,0 +1,16 @@
+{"time":"2025-03-07T17:26:23.3294234+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250307_172623-ny5nbg28\\logs\\debug-core.log"}
+{"time":"2025-03-07T17:26:24.0479301+05:30","level":"INFO","msg":"created new stream","id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:24.0484867+05:30","level":"INFO","msg":"stream: started","id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:24.0484867+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:24.0484867+05:30","level":"INFO","msg":"handler: started","stream_id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:24.0484867+05:30","level":"INFO","msg":"sender: started","stream_id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:24.4062136+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T17:26:40.333232+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T17:26:40.3341211+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T17:26:41.3474756+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6920658},{"desc":"uploading config.yaml","runtime_seconds":0.40707,"progress":"858B/858B"},{"desc":"uploading history steps 0-4, summary","runtime_seconds":0.1984733}],"total_operations":3}}
+{"time":"2025-03-07T17:26:41.9690573+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T17:26:43.2862845+05:30","level":"INFO","msg":"stream: closing","id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:43.2862845+05:30","level":"INFO","msg":"handler: closed","stream_id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:43.2862845+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:43.2862845+05:30","level":"INFO","msg":"sender: closed","stream_id":"ny5nbg28"}
+{"time":"2025-03-07T17:26:43.2862845+05:30","level":"INFO","msg":"stream: closed","id":"ny5nbg28"}

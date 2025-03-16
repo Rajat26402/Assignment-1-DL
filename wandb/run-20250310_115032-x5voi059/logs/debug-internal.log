@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:50:32.9801986+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250310_115032-x5voi059\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:50:33.7006447+05:30","level":"INFO","msg":"created new stream","id":"x5voi059"}
+{"time":"2025-03-10T11:50:33.7006447+05:30","level":"INFO","msg":"stream: started","id":"x5voi059"}
+{"time":"2025-03-10T11:50:33.7006447+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x5voi059"}
+{"time":"2025-03-10T11:50:33.7006447+05:30","level":"INFO","msg":"sender: started","stream_id":"x5voi059"}
+{"time":"2025-03-10T11:50:33.7012633+05:30","level":"INFO","msg":"handler: started","stream_id":"x5voi059"}
+{"time":"2025-03-10T11:50:34.7912385+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:50:56.2647947+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:50:56.2654997+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:50:57.2771151+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-x5voi059-confusion_matrix_table","runtime_seconds":1.0683582},{"desc":"uploading output.log","runtime_seconds":0.7256032},{"desc":"uploading media\\table\\confusion_matrix_table_5_ab11797f83383bd43944.table.json","runtime_seconds":0.7256032,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1994316,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-10T11:51:00.3004751+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:51:01.858974+05:30","level":"INFO","msg":"stream: closing","id":"x5voi059"}
+{"time":"2025-03-10T11:51:01.858974+05:30","level":"INFO","msg":"handler: closed","stream_id":"x5voi059"}
+{"time":"2025-03-10T11:51:01.858974+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"x5voi059"}
+{"time":"2025-03-10T11:51:01.858974+05:30","level":"INFO","msg":"sender: closed","stream_id":"x5voi059"}
+{"time":"2025-03-10T11:51:01.8594871+05:30","level":"INFO","msg":"stream: closed","id":"x5voi059"}

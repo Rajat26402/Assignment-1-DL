@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:38:44.1741035+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250316_133844-58ozwahu\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:38:44.8950631+05:30","level":"INFO","msg":"created new stream","id":"58ozwahu"}
+{"time":"2025-03-16T13:38:44.8956597+05:30","level":"INFO","msg":"stream: started","id":"58ozwahu"}
+{"time":"2025-03-16T13:38:44.8956597+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"58ozwahu"}
+{"time":"2025-03-16T13:38:44.8956597+05:30","level":"INFO","msg":"sender: started","stream_id":"58ozwahu"}
+{"time":"2025-03-16T13:38:44.8956597+05:30","level":"INFO","msg":"handler: started","stream_id":"58ozwahu"}
+{"time":"2025-03-16T13:38:45.3153171+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:39:17.7317684+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:39:17.732813+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:39:18.7409413+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-58ozwahu-confusion_matrix_table","runtime_seconds":1.0122359},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7060029,"progress":"362B/362B"},{"desc":"uploading config.yaml","runtime_seconds":0.413754,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-16T13:39:20.3065992+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:39:21.615389+05:30","level":"INFO","msg":"stream: closing","id":"58ozwahu"}
+{"time":"2025-03-16T13:39:21.615389+05:30","level":"INFO","msg":"handler: closed","stream_id":"58ozwahu"}
+{"time":"2025-03-16T13:39:21.615389+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"58ozwahu"}
+{"time":"2025-03-16T13:39:21.615389+05:30","level":"INFO","msg":"sender: closed","stream_id":"58ozwahu"}
+{"time":"2025-03-16T13:39:21.6161285+05:30","level":"INFO","msg":"stream: closed","id":"58ozwahu"}
