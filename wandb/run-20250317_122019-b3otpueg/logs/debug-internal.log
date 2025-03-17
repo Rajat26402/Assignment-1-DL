@@ -1,0 +1,16 @@
+{"time":"2025-03-17T12:20:19.1154674+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_122019-b3otpueg\\logs\\debug-core.log"}
+{"time":"2025-03-17T12:20:19.836465+05:30","level":"INFO","msg":"created new stream","id":"b3otpueg"}
+{"time":"2025-03-17T12:20:19.8370808+05:30","level":"INFO","msg":"stream: started","id":"b3otpueg"}
+{"time":"2025-03-17T12:20:19.8370808+05:30","level":"INFO","msg":"handler: started","stream_id":"b3otpueg"}
+{"time":"2025-03-17T12:20:19.8370808+05:30","level":"INFO","msg":"sender: started","stream_id":"b3otpueg"}
+{"time":"2025-03-17T12:20:19.8370808+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"b3otpueg"}
+{"time":"2025-03-17T12:20:20.1579549+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T12:20:39.5503814+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:20:39.5509788+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:20:40.562827+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-b3otpueg-confusion_matrix_table","runtime_seconds":1.0455975},{"desc":"uploading media\\table\\confusion_matrix_table_10_982ff58d1e812e251ab9.table.json","runtime_seconds":0.7255963,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7255963},{"desc":"uploading config.yaml","runtime_seconds":0.4082223,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T12:20:42.0375869+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:20:43.3629189+05:30","level":"INFO","msg":"stream: closing","id":"b3otpueg"}
+{"time":"2025-03-17T12:20:43.3629189+05:30","level":"INFO","msg":"handler: closed","stream_id":"b3otpueg"}
+{"time":"2025-03-17T12:20:43.3629189+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"b3otpueg"}
+{"time":"2025-03-17T12:20:43.3629189+05:30","level":"INFO","msg":"sender: closed","stream_id":"b3otpueg"}
+{"time":"2025-03-17T12:20:43.3629189+05:30","level":"INFO","msg":"stream: closed","id":"b3otpueg"}

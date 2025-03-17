@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:24:19.3125294+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_112419-cfiwa9by\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:24:20.0335418+05:30","level":"INFO","msg":"created new stream","id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:20.0335418+05:30","level":"INFO","msg":"stream: started","id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:20.0335418+05:30","level":"INFO","msg":"handler: started","stream_id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:20.0335418+05:30","level":"INFO","msg":"sender: started","stream_id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:20.0335418+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:20.4060104+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:24:36.675468+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:24:36.6764039+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:24:37.6844951+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-cfiwa9by-confusion_matrix_table","runtime_seconds":1.0452962},{"desc":"uploading config.yaml","runtime_seconds":0.2290801,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-17T11:24:39.5988848+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:24:41.0543239+05:30","level":"INFO","msg":"stream: closing","id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:41.0543239+05:30","level":"INFO","msg":"handler: closed","stream_id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:41.0543239+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:41.0543239+05:30","level":"INFO","msg":"sender: closed","stream_id":"cfiwa9by"}
+{"time":"2025-03-17T11:24:41.0543239+05:30","level":"INFO","msg":"stream: closed","id":"cfiwa9by"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:29:54.3147175+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_112954-sc9ngtee\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:29:55.0331494+05:30","level":"INFO","msg":"created new stream","id":"sc9ngtee"}
+{"time":"2025-03-17T11:29:55.0338199+05:30","level":"INFO","msg":"stream: started","id":"sc9ngtee"}
+{"time":"2025-03-17T11:29:55.0338199+05:30","level":"INFO","msg":"handler: started","stream_id":"sc9ngtee"}
+{"time":"2025-03-17T11:29:55.0338199+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sc9ngtee"}
+{"time":"2025-03-17T11:29:55.0338199+05:30","level":"INFO","msg":"sender: started","stream_id":"sc9ngtee"}
+{"time":"2025-03-17T11:29:55.3499098+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:30:45.5171356+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:30:45.8554397+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:30:46.5233322+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-sc9ngtee-confusion_matrix_table","runtime_seconds":1.0399783},{"desc":"uploading output.log","runtime_seconds":0.3544322},{"desc":"uploading config.yaml","runtime_seconds":0.0576318,"progress":"2.2KB/2.2KB"}],"total_operations":3}}
+{"time":"2025-03-17T11:30:48.1066068+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:30:49.4504578+05:30","level":"INFO","msg":"stream: closing","id":"sc9ngtee"}
+{"time":"2025-03-17T11:30:49.4504578+05:30","level":"INFO","msg":"handler: closed","stream_id":"sc9ngtee"}
+{"time":"2025-03-17T11:30:49.4504578+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sc9ngtee"}
+{"time":"2025-03-17T11:30:49.4504578+05:30","level":"INFO","msg":"sender: closed","stream_id":"sc9ngtee"}
+{"time":"2025-03-17T11:30:49.4509838+05:30","level":"INFO","msg":"stream: closed","id":"sc9ngtee"}

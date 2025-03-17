@@ -18,32 +18,27 @@ from sklearn.metrics import confusion_matrix
 
 wandb.init(project="DLA1", entity="da24m014-iit-madras")
 
-# Load the Fashion-MNIST dataset
 (x_train, y_train), (x_test, y_test) = fashion_mnist.load_data()
 
 
 
-# Class names for Fashion-MNIST
 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
-# Log sample images to wandb
 sample_images = []
 unique_classes = np.unique(y_train)
 
 for cls in unique_classes:
-    sample_idx = np.where(y_train == cls)[0][0]  # Find an example for the class
+    sample_idx = np.where(y_train == cls)[0][0]  
     img = x_train[sample_idx]
 
     sample_images.append(wandb.Image(img, caption=class_names[cls]))
 
-# Log images to wandb
 wandb.log({"Sample Images": sample_images})
 
-# Finish wandb run
 wandb.finish()
 
-(x_train, y_train), (x_test, y_test) = fashion_mnist.load_data()
+# (x_train, y_train), (x_test, y_test) = fashion_mnist.load_data()
 x_train, x_test = x_train / 255.0, x_test / 255.0
 x_train, x_test = x_train.reshape(x_train.shape[0], -1), x_test.reshape(x_test.shape[0], -1)
 num_classes = 10
@@ -80,10 +75,10 @@ def relu_derivative(A):
     return (A > 0).astype(float)
 
 def sigmoid_derivative(A):
-    return A * (1 - A)  # Works because in forward pass, A = sigmoid(Z)
+    return A * (1 - A)  
 
 def tanh_derivative(A):
-    return 1 - A**2  # Works because in forward pass, A = tanh(Z)
+    return 1 - A**2  
 
 activation_derivatives = {
     "relu": relu_derivative,
@@ -103,68 +98,56 @@ def sgd_update(weights, biases, grads_W, grads_b, learning_rate):
 def momentum_update(weights, biases, grads_W, grads_b, learning_rate, velocity_W, velocity_b, momentum=0.5):
     for i in range(len(weights)):
         velocity_W[i] = momentum * velocity_W[i] - learning_rate * grads_W[i]
-        velocity_b[i] = momentum * velocity_b[i] - learning_rate * grads_b[i]  # Corrected
+        velocity_b[i] = momentum * velocity_b[i] - learning_rate * grads_b[i]  
 
         weights[i] += velocity_W[i]
-        biases[i] += velocity_b[i] # Fixed Bias Update
+        biases[i] += velocity_b[i] 
 
 # Nesterov Accelerated Gradient (NAG)
 def nesterov_update(weights, biases, grads_W, grads_b, learning_rate, velocity_W,velocity_b, momentum=0.5):
     for i in range(len(weights)):
-        # Compute lookahead position
         lookahead_W = weights[i] + momentum * velocity_W[i]
-        lookahead_b = biases[i] + momentum * velocity_b[i]  # Corrected
+        lookahead_b = biases[i] + momentum * velocity_b[i] 
 
-        # Update velocity
         velocity_W[i] = momentum * velocity_W[i] - learning_rate * grads_W[i]
-        velocity_b[i] = momentum * velocity_b[i] - learning_rate * grads_b[i]  # Corrected
+        velocity_b[i] = momentum * velocity_b[i] - learning_rate * grads_b[i]  
 
-        # Update weights and biases with corrected lookahead step
         weights[i] = lookahead_W + velocity_W[i]
         biases[i] = lookahead_b + velocity_b[i]
 
 # RMSprop Optimizer
 def rmsprop_update(weights, biases, grads_W, grads_b, learning_rate, velocity_W, velocity_b, beta=0.5, epsilon=1e-6):
     for i in range(len(weights)):
-        # Update velocity for weights and biases separately
         velocity_W[i] = beta * velocity_W[i] + (1 - beta) * (grads_W[i] ** 2)
         velocity_b[i] = beta * velocity_b[i] + (1 - beta) * (grads_b[i] ** 2)
 
-        # Update weights
         weights[i] -= learning_rate * grads_W[i] / (np.sqrt(velocity_W[i]) + epsilon)
 
-        # Update biases
         biases[i] -= learning_rate * grads_b[i] / (np.sqrt(velocity_b[i]) + epsilon)
 
 # Adam Optimizer
-# Adam Optimizer
 def adam_update(weights, biases, grads_W, grads_b, learning_rate, velocity_W, velocity_b, moment2_W, moment2_b, beta1=0.5, beta2=0.5, epsilon=1e-6, t=1):
     for i in range(len(weights)):
-        # First moment estimate
         velocity_W[i] = beta1 * velocity_W[i] + (1 - beta1) * grads_W[i]
         velocity_b[i] = beta1 * velocity_b[i] + (1 - beta1) * grads_b[i]
 
-        # Second moment estimate
         moment2_W[i] = beta2 * moment2_W[i] + (1 - beta2) * (grads_W[i] ** 2)
         moment2_b[i] = beta2 * moment2_b[i] + (1 - beta2) * (grads_b[i] ** 2)
 
-        # Bias correction
         velocity_W_corrected = velocity_W[i] / (1 - beta1 ** t)
         velocity_b_corrected = velocity_b[i] / (1 - beta1 ** t)
 
         moment2_W_corrected = moment2_W[i] / (1 - beta2 ** t)
         moment2_b_corrected = moment2_b[i] / (1 - beta2 ** t)
 
-        # Check and correct shape mismatch
         if moment2_b_corrected.shape != biases[i].shape:
             print(f"Shape mismatch at layer {i}: {moment2_b_corrected.shape} vs {biases[i].shape}")
             moment2_b_corrected = np.reshape(moment2_b_corrected, biases[i].shape)
 
-        # Parameter update
         weights[i] -= learning_rate * velocity_W_corrected / (np.sqrt(moment2_W_corrected) + epsilon)
         biases[i] -= learning_rate * velocity_b_corrected / (np.sqrt(moment2_b_corrected) + epsilon)
 
-    return t + 1  # Increment time step
+    return t + 1  
 
 
 class NeuralNetwork:
@@ -184,14 +167,12 @@ class NeuralNetwork:
 
         self.init_weights(weight_init)
 
-        # Optimizer-specific parameters
         self.velocity_W = [np.zeros_like(W) for W in self.weights]
         self.velocity_b = [np.zeros_like(b) for b in self.biases]
         self.moment2_W = [np.zeros_like(W) for W in self.weights]
         self.moment2_b = [np.zeros_like(b) for b in self.biases]
-        self.t = 0  # Timestep for Adam/Nadam
+        self.t = 0  
 
-        # Store best model
         global best_model_data
         best_model_data = {
             "weights": None,
@@ -272,10 +253,8 @@ class NeuralNetwork:
                 X_batch = X_train[i:i + batch_size]
                 y_batch = y_train[i:i + batch_size]
 
-                # Forward Pass
                 y_pred = self.forward(X_batch)
 
-                # Compute Loss & Accuracy
                 loss = self.compute_loss(y_batch, y_pred)
                 ce_loss = self.compute_cross_entropy_loss(y_batch, y_pred)
                 mse_loss = self.compute_mse_loss(y_batch,y_pred)
@@ -286,10 +265,8 @@ class NeuralNetwork:
                 total_mse_loss += mse_loss * len(X_batch)
                 total_acc += acc * len(X_batch)
 
-                # Backward Pass
                 grads_W, grads_b = self.backward(X_batch, y_batch)
 
-                # Update Weights using the selected optimizer
                 self.t += 1
                 if self.optimizer == "sgd":
                     sgd_update(self.weights, self.biases, grads_W, grads_b, self.learning_rate)
@@ -302,20 +279,17 @@ class NeuralNetwork:
                 elif self.optimizer == "adam":
                     adam_update(self.weights, self.biases, grads_W, grads_b, self.learning_rate, self.velocity_W, self.velocity_b, self.moment2_W, self.moment2_b, self.beta1, self.beta2, self.epsilon, self.t)
 
-            # Compute average loss and accuracy for the epoch
             avg_loss = total_loss / num_samples
             avg_ce_loss = total_ce_loss / num_samples
             avg_mse_loss = total_mse_loss / num_samples
             avg_acc = total_acc / num_samples
 
-            # Validation Metrics
             y_val_pred = self.forward(X_val)
             val_loss = self.compute_loss(y_val, y_val_pred)
             val_ce_loss = self.compute_cross_entropy_loss(y_val,y_val_pred)
             val_mse_loss = self.compute_mse_loss(y_val,y_val_pred)
             val_acc = np.mean(np.argmax(y_val_pred, axis=1) == np.argmax(y_val, axis=1))
 
-            # Save Best Model
             global best_model_data
             if val_acc > best_model_data["best_accuracy"]:
                 best_model_data = {
@@ -336,7 +310,6 @@ class NeuralNetwork:
                     "best_accuracy": val_acc
                 }
             
-            # Log to Weights & Biases
             wandb.log({
                 "epoch": epoch + 1, 
                 "loss": avg_loss, 
@@ -349,20 +322,15 @@ class NeuralNetwork:
                 "val_mse_loss": val_mse_loss
             })
             
-        # Log confusion matrix at the end of training
-        # Get predictions using final model
         y_val_pred = self.forward(X_val)
         y_val_pred_classes = np.argmax(y_val_pred, axis=1)
         y_val_true_classes = np.argmax(y_val, axis=1)
         
-        # Compute confusion matrix
         cm = confusion_matrix(y_val_true_classes, y_val_pred_classes)
         
-        # Class names for Fashion-MNIST
         class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                       'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
         
-        # Log confusion matrix
         wandb.log({
             "confusion_matrix": wandb.plot.confusion_matrix(
                 probs=None,
@@ -389,12 +357,11 @@ sweep_config = {
     "run_cap":200
 }
 
-# wandb.init(project="Assignment - 1")  # Ensure WandB is initialized before using config
-# wandb.login()
+
 sweep_id = wandb.sweep(sweep_config, project="DLA1")
 
 def train_with_wandb():
-    wandb.init(project="DLA1", entity="da24m014") # Ensure WandB is initialized before using config
+    wandb.init(project="DLA1", entity="da24m014") 
     config = wandb.config
     run_name = f"hl_{config.hidden_layers}_bs_{config.batch_size}_ac_{config.activation}"
     wandb.run.name = run_name
@@ -406,6 +373,5 @@ def train_with_wandb():
                           weight_decay=config.weight_decay,
                           )
     model.train(x_train, y_train, x_test, y_test, config.epochs, config.batch_size)
-    # wandb.finish()
 wandb.agent(sweep_id, function=train_with_wandb)
 

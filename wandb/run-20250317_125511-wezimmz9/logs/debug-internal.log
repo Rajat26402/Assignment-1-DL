@@ -1,0 +1,16 @@
+{"time":"2025-03-17T12:55:11.8062502+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_125511-wezimmz9\\logs\\debug-core.log"}
+{"time":"2025-03-17T12:55:12.5257029+05:30","level":"INFO","msg":"created new stream","id":"wezimmz9"}
+{"time":"2025-03-17T12:55:12.5257029+05:30","level":"INFO","msg":"stream: started","id":"wezimmz9"}
+{"time":"2025-03-17T12:55:12.5257029+05:30","level":"INFO","msg":"handler: started","stream_id":"wezimmz9"}
+{"time":"2025-03-17T12:55:12.5257029+05:30","level":"INFO","msg":"sender: started","stream_id":"wezimmz9"}
+{"time":"2025-03-17T12:55:12.5257029+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wezimmz9"}
+{"time":"2025-03-17T12:55:12.8772029+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T12:55:29.2439927+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:55:29.2445233+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:55:30.2567842+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-wezimmz9-confusion_matrix_table","runtime_seconds":1.0495188},{"desc":"uploading media\\table\\confusion_matrix_table_10_d7983eadb3d8cc114642.table.json","runtime_seconds":0.7180447,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7180447,"progress":"1.0KB/1.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.402844,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T12:55:32.1978977+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:55:33.5214685+05:30","level":"INFO","msg":"stream: closing","id":"wezimmz9"}
+{"time":"2025-03-17T12:55:33.5214685+05:30","level":"INFO","msg":"handler: closed","stream_id":"wezimmz9"}
+{"time":"2025-03-17T12:55:33.5214685+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wezimmz9"}
+{"time":"2025-03-17T12:55:33.5214685+05:30","level":"INFO","msg":"sender: closed","stream_id":"wezimmz9"}
+{"time":"2025-03-17T12:55:33.5214685+05:30","level":"INFO","msg":"stream: closed","id":"wezimmz9"}

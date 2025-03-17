@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:49:56.0781392+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_114956-bqfe1lub\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:49:56.7975514+05:30","level":"INFO","msg":"created new stream","id":"bqfe1lub"}
+{"time":"2025-03-17T11:49:56.7975514+05:30","level":"INFO","msg":"stream: started","id":"bqfe1lub"}
+{"time":"2025-03-17T11:49:56.7975514+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bqfe1lub"}
+{"time":"2025-03-17T11:49:56.7975514+05:30","level":"INFO","msg":"sender: started","stream_id":"bqfe1lub"}
+{"time":"2025-03-17T11:49:56.7975514+05:30","level":"INFO","msg":"handler: started","stream_id":"bqfe1lub"}
+{"time":"2025-03-17T11:49:57.3357834+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:50:09.5993421+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:50:09.599941+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:50:10.6060606+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-bqfe1lub-confusion_matrix_table","runtime_seconds":1.0363979},{"desc":"uploading media\\table\\confusion_matrix_table_10_ae3c51286ff84d89529f.table.json","runtime_seconds":0.7170603,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7170603},{"desc":"uploading config.yaml","runtime_seconds":0.4221158,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T11:50:12.1272032+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:50:13.4679287+05:30","level":"INFO","msg":"stream: closing","id":"bqfe1lub"}
+{"time":"2025-03-17T11:50:13.4679287+05:30","level":"INFO","msg":"handler: closed","stream_id":"bqfe1lub"}
+{"time":"2025-03-17T11:50:13.4679287+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bqfe1lub"}
+{"time":"2025-03-17T11:50:13.4679287+05:30","level":"INFO","msg":"sender: closed","stream_id":"bqfe1lub"}
+{"time":"2025-03-17T11:50:13.4679287+05:30","level":"INFO","msg":"stream: closed","id":"bqfe1lub"}

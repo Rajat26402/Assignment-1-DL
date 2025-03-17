@@ -3,6 +3,35 @@ import wandb
 from keras.datasets import mnist, fashion_mnist
 import argparse
 
+def one_hot_encode(y, num_classes):
+    encoded = np.zeros((y.size, num_classes))
+    encoded[np.arange(y.size), y] = 1
+    return encoded
+
+def linear(Z):
+    return Z
+
+def relu(Z):
+    return np.maximum(0, Z)
+
+def sigmoid(Z):
+    return 1 / (1 + np.exp(-Z))
+
+def tanh(Z):
+    return np.tanh(Z)
+
+def sigmoid_derivative(self, A):
+    return A * (1 - A)
+    
+def tanh_derivative(self, A):
+    return 1 - A**2
+        
+def relu_derivative(self, A):
+    return np.where(A > 0, 1, 0)
+
+def softmax(Z):
+    expZ = np.exp(Z - np.max(Z, axis=1, keepdims=True))
+    return expZ / np.sum(expZ, axis=1, keepdims=True)
 
 def main():
     
@@ -45,7 +74,6 @@ def main():
     if args.optimizer == 'nag':
         args.optimizer = 'nesterov'
     
-    
     x_train, x_test = x_train / 255.0, x_test / 255.0
     x_train, x_test = x_train.reshape(x_train.shape[0], -1), x_test.reshape(x_test.shape[0], -1)
     num_classes = 10
@@ -68,10 +96,9 @@ def main():
         }
     )
     
-    
     network = [x_train.shape[1]] + [args.hidden_size] * args.num_layers + [num_classes]
     best_weights, best_biases = train(
-        x_train, y_train, x_val, y_val, y_train1, y_val1,
+        x_train, y_train, x_val, y_val,
         layers=network,learning_rate=args.learning_rate,activation=args.activation,optimizer=args.optimizer,weight_init=args.weight_init,
         weight_decay=args.weight_decay,epochs=args.epochs,batch_size=args.batch_size,beta=args.beta,beta1=args.beta1,beta2=args.beta2,
         epsilon=args.epsilon,momentum_param=args.momentum,loss_function=args.loss)
@@ -82,38 +109,6 @@ def main():
     test_accuracy = np.mean(test_predictions == y_test1)
     wandb.log({"test_accuracy": test_accuracy})
     print(f"Test accuracy: {test_accuracy * 100:.2f}%")
-
-
-def one_hot_encode(y, num_classes):
-    encoded = np.zeros((y.size, num_classes))
-    encoded[np.arange(y.size), y] = 1
-    return encoded
-
-def linear(Z):
-    return Z
-
-def relu(Z):
-    return np.maximum(0, Z)
-
-def sigmoid(Z):
-    return 1 / (1 + np.exp(-Z))
-
-def tanh(Z):
-    return np.tanh(Z)
-
-    
-def sigmoid_derivative(self, A):
-    return A * (1 - A)
-    
-def tanh_derivative(self, A):
-    return 1 - A**2
-        
-def relu_derivative(self, A):
-    return np.where(A > 0, 1, 0)
-
-def softmax(Z):
-    expZ = np.exp(Z - np.max(Z, axis=1, keepdims=True))
-    return expZ / np.sum(expZ, axis=1, keepdims=True)
 
 
 def sgd(weights, biases, grads_W, grads_b, learning_rate, v_W=None, v_b=None, moment2_W=None, moment2_b=None, **kwargs):
@@ -285,7 +280,7 @@ def predict(X, weights, biases, activation):
     A = forward(X, weights, biases, activation)
     return np.argmax(A[-1], axis=1)
 
-def train(X_train, y_train, X_val, y_val, y_train_original, y_val_original, layers, learning_rate, activation, optimizer, 
+def train(X_train, y_train, X_val, y_val, layers, learning_rate, activation, optimizer, 
           weight_init, weight_decay, epochs, batch_size, beta=0.9, beta1=0.9, beta2=0.999, epsilon=1e-6, momentum_param=0.9, loss_function="cross_entropy"):
     
     weights, biases = init_weights(layers, weight_init)    
@@ -296,7 +291,6 @@ def train(X_train, y_train, X_val, y_val, y_train_original, y_val_original, laye
     t = 1  
     
     num_samples = X_train.shape[0]
-    
     best_val_acc = 0
     best_weights, best_biases = None, None
     

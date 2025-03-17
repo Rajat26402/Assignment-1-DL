@@ -1,0 +1,15 @@
+{"time":"2025-03-17T16:49:17.1311257+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"D:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_164917-vtvnfgdu\\logs\\debug-core.log"}
+{"time":"2025-03-17T16:49:18.4550042+05:30","level":"INFO","msg":"created new stream","id":"vtvnfgdu"}
+{"time":"2025-03-17T16:49:18.4550042+05:30","level":"INFO","msg":"stream: started","id":"vtvnfgdu"}
+{"time":"2025-03-17T16:49:18.4555537+05:30","level":"INFO","msg":"handler: started","stream_id":"vtvnfgdu"}
+{"time":"2025-03-17T16:49:18.4555537+05:30","level":"INFO","msg":"sender: started","stream_id":"vtvnfgdu"}
+{"time":"2025-03-17T16:49:18.4555537+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vtvnfgdu"}
+{"time":"2025-03-17T16:49:18.8535232+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T16:50:12.9742729+05:30","level":"INFO","msg":"stream: closing","id":"vtvnfgdu"}
+{"time":"2025-03-17T16:50:12.9742729+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T16:50:12.9752367+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T16:50:16.092884+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T16:50:16.4280947+05:30","level":"INFO","msg":"handler: closed","stream_id":"vtvnfgdu"}
+{"time":"2025-03-17T16:50:16.4280947+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vtvnfgdu"}
+{"time":"2025-03-17T16:50:16.4280947+05:30","level":"INFO","msg":"sender: closed","stream_id":"vtvnfgdu"}
+{"time":"2025-03-17T16:50:16.4286631+05:30","level":"INFO","msg":"stream: closed","id":"vtvnfgdu"}

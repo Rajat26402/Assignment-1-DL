@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:33:10.5130166+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_113310-jf45ii90\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:33:11.2344571+05:30","level":"INFO","msg":"created new stream","id":"jf45ii90"}
+{"time":"2025-03-17T11:33:11.2344571+05:30","level":"INFO","msg":"stream: started","id":"jf45ii90"}
+{"time":"2025-03-17T11:33:11.2344571+05:30","level":"INFO","msg":"handler: started","stream_id":"jf45ii90"}
+{"time":"2025-03-17T11:33:11.2344571+05:30","level":"INFO","msg":"sender: started","stream_id":"jf45ii90"}
+{"time":"2025-03-17T11:33:11.2344571+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jf45ii90"}
+{"time":"2025-03-17T11:33:11.5601807+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:33:52.7271687+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:33:52.727853+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:33:53.7427821+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-jf45ii90-confusion_matrix_table","runtime_seconds":1.0503692}],"total_operations":1}}
+{"time":"2025-03-17T11:33:55.1965581+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:33:56.5236937+05:30","level":"INFO","msg":"stream: closing","id":"jf45ii90"}
+{"time":"2025-03-17T11:33:56.5236937+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jf45ii90"}
+{"time":"2025-03-17T11:33:56.5236937+05:30","level":"INFO","msg":"handler: closed","stream_id":"jf45ii90"}
+{"time":"2025-03-17T11:33:56.5236937+05:30","level":"INFO","msg":"sender: closed","stream_id":"jf45ii90"}
+{"time":"2025-03-17T11:33:56.5241993+05:30","level":"INFO","msg":"stream: closed","id":"jf45ii90"}

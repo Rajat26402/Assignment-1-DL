@@ -1,0 +1,16 @@
+{"time":"2025-03-17T13:31:48.0860725+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_133148-5n59cin5\\logs\\debug-core.log"}
+{"time":"2025-03-17T13:31:48.8053551+05:30","level":"INFO","msg":"created new stream","id":"5n59cin5"}
+{"time":"2025-03-17T13:31:48.8059703+05:30","level":"INFO","msg":"stream: started","id":"5n59cin5"}
+{"time":"2025-03-17T13:31:48.8059703+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5n59cin5"}
+{"time":"2025-03-17T13:31:48.8059703+05:30","level":"INFO","msg":"sender: started","stream_id":"5n59cin5"}
+{"time":"2025-03-17T13:31:48.8059703+05:30","level":"INFO","msg":"handler: started","stream_id":"5n59cin5"}
+{"time":"2025-03-17T13:31:49.1856219+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T13:32:18.2087206+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T13:32:18.2100674+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T13:32:19.213198+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-5n59cin5-confusion_matrix_table","runtime_seconds":1.0415236},{"desc":"uploading media\\table\\confusion_matrix_table_10_f573eb2f1de7b73d208c.table.json","runtime_seconds":0.7073511,"progress":"2.9KB/2.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7073511,"progress":"1.0KB/1.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.2344803,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T13:32:21.067027+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T13:32:22.5460998+05:30","level":"INFO","msg":"stream: closing","id":"5n59cin5"}
+{"time":"2025-03-17T13:32:22.5460998+05:30","level":"INFO","msg":"handler: closed","stream_id":"5n59cin5"}
+{"time":"2025-03-17T13:32:22.5460998+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5n59cin5"}
+{"time":"2025-03-17T13:32:22.5460998+05:30","level":"INFO","msg":"sender: closed","stream_id":"5n59cin5"}
+{"time":"2025-03-17T13:32:22.5460998+05:30","level":"INFO","msg":"stream: closed","id":"5n59cin5"}

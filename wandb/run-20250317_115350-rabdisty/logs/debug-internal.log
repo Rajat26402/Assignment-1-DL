@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:53:50.7149359+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_115350-rabdisty\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:53:51.4332427+05:30","level":"INFO","msg":"created new stream","id":"rabdisty"}
+{"time":"2025-03-17T11:53:51.4337816+05:30","level":"INFO","msg":"stream: started","id":"rabdisty"}
+{"time":"2025-03-17T11:53:51.4337816+05:30","level":"INFO","msg":"handler: started","stream_id":"rabdisty"}
+{"time":"2025-03-17T11:53:51.4337816+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rabdisty"}
+{"time":"2025-03-17T11:53:51.4337816+05:30","level":"INFO","msg":"sender: started","stream_id":"rabdisty"}
+{"time":"2025-03-17T11:53:51.7822423+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:54:44.4285831+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:54:44.4291263+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:54:45.4425154+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-rabdisty-confusion_matrix_table","runtime_seconds":1.0535257}],"total_operations":1}}
+{"time":"2025-03-17T11:54:46.9718603+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:54:48.2978115+05:30","level":"INFO","msg":"stream: closing","id":"rabdisty"}
+{"time":"2025-03-17T11:54:48.2978115+05:30","level":"INFO","msg":"handler: closed","stream_id":"rabdisty"}
+{"time":"2025-03-17T11:54:48.2978115+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rabdisty"}
+{"time":"2025-03-17T11:54:48.2978115+05:30","level":"INFO","msg":"sender: closed","stream_id":"rabdisty"}
+{"time":"2025-03-17T11:54:48.2978115+05:30","level":"INFO","msg":"stream: closed","id":"rabdisty"}

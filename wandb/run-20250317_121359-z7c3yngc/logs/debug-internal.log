@@ -1,0 +1,16 @@
+{"time":"2025-03-17T12:13:59.898305+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_121359-z7c3yngc\\logs\\debug-core.log"}
+{"time":"2025-03-17T12:14:01.2208124+05:30","level":"INFO","msg":"created new stream","id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:01.2208124+05:30","level":"INFO","msg":"stream: started","id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:01.2208124+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:01.2208124+05:30","level":"INFO","msg":"sender: started","stream_id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:01.2208124+05:30","level":"INFO","msg":"handler: started","stream_id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:01.8213756+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T12:14:51.8667306+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:14:52.3422483+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:14:52.8757291+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-z7c3yngc-confusion_matrix_table","runtime_seconds":1.0424281},{"desc":"updating run config","runtime_seconds":0.5323368},{"desc":"uploading output.log","runtime_seconds":0.222767},{"desc":"uploading wandb-summary.json","runtime_seconds":0.222767,"progress":"1012B/1012B"}],"total_operations":4}}
+{"time":"2025-03-17T12:14:55.1335871+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:14:56.4767342+05:30","level":"INFO","msg":"stream: closing","id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:56.4767342+05:30","level":"INFO","msg":"handler: closed","stream_id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:56.4767342+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:56.4767342+05:30","level":"INFO","msg":"sender: closed","stream_id":"z7c3yngc"}
+{"time":"2025-03-17T12:14:56.4775162+05:30","level":"INFO","msg":"stream: closed","id":"z7c3yngc"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T13:23:43.1247831+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_132343-knoa65jh\\logs\\debug-core.log"}
+{"time":"2025-03-17T13:23:43.2416522+05:30","level":"INFO","msg":"created new stream","id":"knoa65jh"}
+{"time":"2025-03-17T13:23:43.2416522+05:30","level":"INFO","msg":"stream: started","id":"knoa65jh"}
+{"time":"2025-03-17T13:23:43.2416522+05:30","level":"INFO","msg":"handler: started","stream_id":"knoa65jh"}
+{"time":"2025-03-17T13:23:43.2416522+05:30","level":"INFO","msg":"sender: started","stream_id":"knoa65jh"}
+{"time":"2025-03-17T13:23:43.2416522+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"knoa65jh"}
+{"time":"2025-03-17T13:23:43.5833158+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T13:24:29.2438838+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T13:24:29.2443873+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T13:24:30.259583+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-knoa65jh-confusion_matrix_table","runtime_seconds":1.0635888},{"desc":"uploading config.yaml","runtime_seconds":0.4178159,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-17T13:24:31.7550901+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T13:24:33.2468641+05:30","level":"INFO","msg":"stream: closing","id":"knoa65jh"}
+{"time":"2025-03-17T13:24:33.2468641+05:30","level":"INFO","msg":"handler: closed","stream_id":"knoa65jh"}
+{"time":"2025-03-17T13:24:33.2468641+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"knoa65jh"}
+{"time":"2025-03-17T13:24:33.2468641+05:30","level":"INFO","msg":"sender: closed","stream_id":"knoa65jh"}
+{"time":"2025-03-17T13:24:33.2468641+05:30","level":"INFO","msg":"stream: closed","id":"knoa65jh"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T12:51:49.4024807+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_125149-tqbv03lo\\logs\\debug-core.log"}
+{"time":"2025-03-17T12:51:50.7254881+05:30","level":"INFO","msg":"created new stream","id":"tqbv03lo"}
+{"time":"2025-03-17T12:51:50.7254881+05:30","level":"INFO","msg":"stream: started","id":"tqbv03lo"}
+{"time":"2025-03-17T12:51:50.7254881+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tqbv03lo"}
+{"time":"2025-03-17T12:51:50.7254881+05:30","level":"INFO","msg":"sender: started","stream_id":"tqbv03lo"}
+{"time":"2025-03-17T12:51:50.7254881+05:30","level":"INFO","msg":"handler: started","stream_id":"tqbv03lo"}
+{"time":"2025-03-17T12:51:51.2966876+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T12:53:10.6154584+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:53:10.6164938+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:53:11.6297169+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-tqbv03lo-confusion_matrix_table","runtime_seconds":1.0557476},{"desc":"uploading media\\table\\confusion_matrix_table_10_01a1dc6c3a67370a4d93.table.json","runtime_seconds":0.7313254,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7313254},{"desc":"uploading config.yaml","runtime_seconds":0.41396,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T12:53:15.217739+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:53:16.6770288+05:30","level":"INFO","msg":"stream: closing","id":"tqbv03lo"}
+{"time":"2025-03-17T12:53:16.6770288+05:30","level":"INFO","msg":"handler: closed","stream_id":"tqbv03lo"}
+{"time":"2025-03-17T12:53:16.6770288+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tqbv03lo"}
+{"time":"2025-03-17T12:53:16.6770288+05:30","level":"INFO","msg":"sender: closed","stream_id":"tqbv03lo"}
+{"time":"2025-03-17T12:53:16.6770288+05:30","level":"INFO","msg":"stream: closed","id":"tqbv03lo"}

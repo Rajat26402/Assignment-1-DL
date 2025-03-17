@@ -1,0 +1,16 @@
+{"time":"2025-03-17T12:59:28.2548915+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_125928-lko0erm7\\logs\\debug-core.log"}
+{"time":"2025-03-17T12:59:28.9740744+05:30","level":"INFO","msg":"created new stream","id":"lko0erm7"}
+{"time":"2025-03-17T12:59:28.9740744+05:30","level":"INFO","msg":"stream: started","id":"lko0erm7"}
+{"time":"2025-03-17T12:59:28.9740744+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lko0erm7"}
+{"time":"2025-03-17T12:59:28.9740744+05:30","level":"INFO","msg":"sender: started","stream_id":"lko0erm7"}
+{"time":"2025-03-17T12:59:28.9746098+05:30","level":"INFO","msg":"handler: started","stream_id":"lko0erm7"}
+{"time":"2025-03-17T12:59:29.3628087+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T13:00:18.705801+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T13:00:18.7068638+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T13:00:19.7097871+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-lko0erm7-confusion_matrix_table","runtime_seconds":1.0487977},{"desc":"uploading output.log","runtime_seconds":0.7146325},{"desc":"uploading media\\table\\confusion_matrix_table_10_90fbbc3fd217e62d63ba.table.json","runtime_seconds":0.7140271,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3905228,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T13:00:21.2354755+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T13:00:22.6633859+05:30","level":"INFO","msg":"stream: closing","id":"lko0erm7"}
+{"time":"2025-03-17T13:00:22.6633859+05:30","level":"INFO","msg":"handler: closed","stream_id":"lko0erm7"}
+{"time":"2025-03-17T13:00:22.6633859+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lko0erm7"}
+{"time":"2025-03-17T13:00:22.6633859+05:30","level":"INFO","msg":"sender: closed","stream_id":"lko0erm7"}
+{"time":"2025-03-17T13:00:22.6633859+05:30","level":"INFO","msg":"stream: closed","id":"lko0erm7"}

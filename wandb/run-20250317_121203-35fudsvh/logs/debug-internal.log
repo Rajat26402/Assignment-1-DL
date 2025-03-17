@@ -1,0 +1,16 @@
+{"time":"2025-03-17T12:12:03.1578252+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_121203-35fudsvh\\logs\\debug-core.log"}
+{"time":"2025-03-17T12:12:03.8765927+05:30","level":"INFO","msg":"created new stream","id":"35fudsvh"}
+{"time":"2025-03-17T12:12:03.8772725+05:30","level":"INFO","msg":"stream: started","id":"35fudsvh"}
+{"time":"2025-03-17T12:12:03.8772725+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"35fudsvh"}
+{"time":"2025-03-17T12:12:03.8772725+05:30","level":"INFO","msg":"sender: started","stream_id":"35fudsvh"}
+{"time":"2025-03-17T12:12:03.8772725+05:30","level":"INFO","msg":"handler: started","stream_id":"35fudsvh"}
+{"time":"2025-03-17T12:12:04.2057387+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T12:12:14.1057786+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:12:14.1062833+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:12:15.1167975+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-35fudsvh-confusion_matrix_table","runtime_seconds":1.0470334000000001},{"desc":"uploading media\\table\\confusion_matrix_table_5_c08d3e9830f8c22dce9b.table.json","runtime_seconds":0.7149953,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7149953},{"desc":"uploading config.yaml","runtime_seconds":0.2208178,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T12:12:16.6802441+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:12:18.0495707+05:30","level":"INFO","msg":"stream: closing","id":"35fudsvh"}
+{"time":"2025-03-17T12:12:18.0495707+05:30","level":"INFO","msg":"handler: closed","stream_id":"35fudsvh"}
+{"time":"2025-03-17T12:12:18.0495707+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"35fudsvh"}
+{"time":"2025-03-17T12:12:18.0495707+05:30","level":"INFO","msg":"sender: closed","stream_id":"35fudsvh"}
+{"time":"2025-03-17T12:12:18.0495707+05:30","level":"INFO","msg":"stream: closed","id":"35fudsvh"}

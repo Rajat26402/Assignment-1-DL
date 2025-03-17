@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:55:27.259182+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_115527-ldarx1tt\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:55:27.9814628+05:30","level":"INFO","msg":"created new stream","id":"ldarx1tt"}
+{"time":"2025-03-17T11:55:27.9814628+05:30","level":"INFO","msg":"stream: started","id":"ldarx1tt"}
+{"time":"2025-03-17T11:55:27.9814628+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ldarx1tt"}
+{"time":"2025-03-17T11:55:27.9814628+05:30","level":"INFO","msg":"handler: started","stream_id":"ldarx1tt"}
+{"time":"2025-03-17T11:55:27.9814628+05:30","level":"INFO","msg":"sender: started","stream_id":"ldarx1tt"}
+{"time":"2025-03-17T11:55:29.0775911+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:56:09.0927575+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:56:09.5947274+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:56:10.1091707+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ldarx1tt-confusion_matrix_table","runtime_seconds":1.0593896},{"desc":"uploading output.log","runtime_seconds":0.2087372},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2087372,"progress":"1.0KB/1.0KB"}],"total_operations":3}}
+{"time":"2025-03-17T11:56:11.9887479+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:56:13.3180241+05:30","level":"INFO","msg":"stream: closing","id":"ldarx1tt"}
+{"time":"2025-03-17T11:56:13.3180241+05:30","level":"INFO","msg":"handler: closed","stream_id":"ldarx1tt"}
+{"time":"2025-03-17T11:56:13.3180241+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ldarx1tt"}
+{"time":"2025-03-17T11:56:13.3180241+05:30","level":"INFO","msg":"sender: closed","stream_id":"ldarx1tt"}
+{"time":"2025-03-17T11:56:13.3180241+05:30","level":"INFO","msg":"stream: closed","id":"ldarx1tt"}

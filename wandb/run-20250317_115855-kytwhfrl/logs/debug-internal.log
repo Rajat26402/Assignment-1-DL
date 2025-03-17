@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:58:55.5031981+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\IIT Madras\\SEM 2\\Deep Learning\\Assignment-1-DL\\wandb\\run-20250317_115855-kytwhfrl\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:58:56.2228499+05:30","level":"INFO","msg":"created new stream","id":"kytwhfrl"}
+{"time":"2025-03-17T11:58:56.2228499+05:30","level":"INFO","msg":"stream: started","id":"kytwhfrl"}
+{"time":"2025-03-17T11:58:56.2228499+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kytwhfrl"}
+{"time":"2025-03-17T11:58:56.2228499+05:30","level":"INFO","msg":"handler: started","stream_id":"kytwhfrl"}
+{"time":"2025-03-17T11:58:56.2228499+05:30","level":"INFO","msg":"sender: started","stream_id":"kytwhfrl"}
+{"time":"2025-03-17T11:58:56.5405506+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:59:13.1281574+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:59:13.1286845+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:59:14.141026+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-kytwhfrl-confusion_matrix_table","runtime_seconds":1.0425832},{"desc":"uploading media\\table\\confusion_matrix_table_10_e7bb2d59a2bc6e06e79b.table.json","runtime_seconds":0.7154289,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.7154289},{"desc":"uploading config.yaml","runtime_seconds":0.3599777,"progress":"2.2KB/2.2KB"}],"total_operations":4}}
+{"time":"2025-03-17T11:59:15.6377085+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:59:16.9830325+05:30","level":"INFO","msg":"stream: closing","id":"kytwhfrl"}
+{"time":"2025-03-17T11:59:16.9830325+05:30","level":"INFO","msg":"handler: closed","stream_id":"kytwhfrl"}
+{"time":"2025-03-17T11:59:16.9830325+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kytwhfrl"}
+{"time":"2025-03-17T11:59:16.9830325+05:30","level":"INFO","msg":"sender: closed","stream_id":"kytwhfrl"}
+{"time":"2025-03-17T11:59:16.9835433+05:30","level":"INFO","msg":"stream: closed","id":"kytwhfrl"}
