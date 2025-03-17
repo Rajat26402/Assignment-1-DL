@@ -17,3 +17,5 @@ Code is organised in several sections, each handles specific part of training an
 
 5. Model Evaluation and Logging: Trained model is tested on test dataset and confusion matrix is logged using wandb.
 
+The A1_DA24M014 contains 3 files, train.py, Assignment_1.py and README.md. train.py contains the argument parser for testing the code. Assignment_1.py can be executed standalone(no arguments needed, just execute it). README.md file other informations.
+
