@@ -1,6 +1,8 @@
 # DA6401_Assignment1
 Assignment 1 of DA6401
+
 Report: https://wandb.ai/da24m014-iit-madras/DLA1/reports/Rajat-Abhijit-Kambale-DA24M014-DA6401-Assignment-1--VmlldzoxMTcxODY3NA?accessToken=shibl4n9jo8hdicagrjkw913tla8ehwq5tkcgs47ycs5yir5fr1k6ld75kj6be5n
+
 Github: https://github.com/Rajat26402/DA6401_Assignment1
 
 Code is organised in several sections, each handles specific part of training and evaluating the neural network.Below is the structure:
